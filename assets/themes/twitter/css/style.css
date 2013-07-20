@@ -25,8 +25,17 @@
 
 /* post-full*/
 .post-full .date {
-  margin-bottom: 20px;
-  font-weight: bold; }
+   font-size: 1.2em;
+    font-variant: small-caps;
+    color: #999;
+    width: 150px;
+    display: block;
+    text-align: right;
+    margin: 23px 0 0 -210px;
+    float: left;
+
+  /*margin-bottom: 20px;
+  font-weight: bold;*/ }
 
 /* tag_box */
 .tag_box {
