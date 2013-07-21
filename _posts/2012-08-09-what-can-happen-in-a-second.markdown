@@ -16,7 +16,7 @@ _This post is my take on the first prompt of the book: What Can Happen in a Seco
 
 _Others might follow. Or not. I haven't read the second prompt yet. I will. But I'm shipping this one first._
 
-[caption id="boat" align="alignright" width="360"][![A Boat, Shot by Me](http://pcdn.500px.net/11156255/cef93067bbb9d90935631a9ddfb7819cf694fd41/4.jpg)](http://500px.com/photo/11156255) The Patience of a Lonely Boat, shot by me on an old Nikon FE2 with a fantastic Velvia 50. Doesn't it serve as a good illustration for the slow passage of time?[/caption]
+{% image full http://500px.com/photo/11156255 "The Patience of a Lonely Boat, shot by me on an old Nikon FE2 with a fantastic Velvia 50. Doesn't it serve as a good illustration for the slow passage of time?" %}
 
 That's an interesting question and not and an easy one to find answers to. It turns out that in our human world, not much can happen in a second. That may be counterintuitive for some. It just sounds right to our ears to hear that some big thing happened in a split second.
 

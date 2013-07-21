@@ -16,12 +16,8 @@ By themselves, the photos would be pretty good albeit lacking a distinguishing e
 
 You can tell I felt inspired by that work. I also happen to take random unpublished pictures suited for such compositing work: _wallpaper-nice_ caliber but nothing crazy unique. I also happen to draw things. Or, I try to. Here is my first attempt at this type of composite art. It's an old pouring rain picture that I augmented with my drawing of a snail. I have much better photos in reserve for this type of work but this one seemed to be fitting with my character so I'm going with that. Uncharacteristically for me, this won't be a scheduled project. But, I'll make more.
 
-[caption align="aligncenter" width="480"][![Freaktargos](http://farm9.staticflickr.com/8234/8508412905_e34d5b1429_b.jpg)](http://flickr.com/gp/alexnormand/0xeDzc) This is it.[/caption]
-
-
-
-
-   
+{% image full http://farm9.staticflickr.com/8234/8508412905_e34d5b1429_b.jpg "This is it." %}
+  
 
 Technical details:
 

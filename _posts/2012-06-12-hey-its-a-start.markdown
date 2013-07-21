@@ -14,7 +14,7 @@ I may suffer from some condition. Ok well, that's an embarrassing way to start b
 
 But that happens only once in a while so it's all good. No problem here.
 
-[caption id="attachment_47" align="alignright" width="306" caption="It's a Road and I Cross it Everyday to Take the Bus. No Joke."][![](http://heyitsalex.net/wp-content/uploads/2012/06/crossroads.jpg)](http://instagr.am/p/KaJJCDO8f8/)[/caption]
+{% image full http://heyitsalex.net/wp-content/uploads/2012/06/crossroads.jpg "It's a Road and I Cross it Everyday to Take the Bus. No Joke." %}
 
 In fact, I'm really hitching for some new project. You know, something to brag about and put on my software engineer resume in which in no way helps my “career”. I really need this in my life. It guarantees that I have absolutely no time for entertainment while I entertain an adequate amount of sleep deprivation.
 

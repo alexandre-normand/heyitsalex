@@ -26,7 +26,7 @@ There I was, holding a blue pen. I had just lost my train of thought. I wasn't e
 
 Today though, this blue is reminiscent of what we've left behind. We always knew it wouldn't be easy to relocate. The nice things about California are indeed _nice_ but it's not so much like we weren't happy with Montréal. This story isn't one of a quest for the promised land.
 
-[caption id="spellbinding" align="alignright" width="375"][![Spellbinding](http://pcdn.500px.net/12645417/0b98f5eab9f13403a48f3489fdc6a8058a985dbc/4.jpg)](http://500px.com/photo/12645417) There's that theme of being somewhere else, shot by me in the Golden Gate Park woods.[/caption]
+{% image full http://pcdn.500px.net/12645417/0b98f5eab9f13403a48f3489fdc6a8058a985dbc/4.jpg "There's that theme of being somewhere else, shot by me in the Golden Gate Park woods." %}
 
 Some days, we read about cool things that are happening right here, only here. Those days, I feel very fortunate to be here. Other days, we read about some interesting change happening in Montreal and we feel like we're missing out. This is a very typical case of nostalgia versus novelty.
 

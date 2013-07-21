@@ -128,8 +128,7 @@ So far, we can pretty much do all we want without one and [zipcar](http://zipcar
 
 ## Olds Cars are Still Alive
 
-
-[caption id="" align="alignright" width="300" caption="The last sample before I felt very very blasé"][![](http://distilleryimage3.s3.amazonaws.com/42b434bc8cee11e1ab011231381052c0_7.jpg)](http://instagr.am/p/JvvACfO8Yb/)[/caption]
+{% image full http://distilleryimage3.s3.amazonaws.com/42b434bc8cee11e1ab011231381052c0_7.jpg "The last sample before I felt very very blasé." %}
 
 I hate cars or at least, I dislike them. I still have my driver's license but I'm a happy fellow when I see anything that prevents cars from being on the street. However, I love the retro look of cars for their visual attractiveness and how they stand out. You might have seen some instagrams as a proof of that. I stopped doing those though. Not because I don't see any retro cars anymore, it's just the opposite: old pastel blue painted fords, rusty Beatles, buicks, Cadillacs. They survived in California. They're all over the place along with the newer models. Not in junkyards, they're just there around the corner.
 
