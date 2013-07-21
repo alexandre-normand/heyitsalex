@@ -123,6 +123,15 @@ p + p {
   font-size: 200%;
 }
 
+.brand h2.subtitle {
+  padding-top: 0.3em;
+  font-family: 'share-regularregular';   
+  font-size: 140%;
+  font-style: italic;
+  padding-left: 75px;
+  margin-top: -1em;
+}
+  
 .brand a {
   color: #6EADEB;
   text-decoration:none;
