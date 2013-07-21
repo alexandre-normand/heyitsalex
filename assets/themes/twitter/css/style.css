@@ -114,6 +114,7 @@ p + p {
 
 .brand h1 {
   padding-top: 0.3em;
+  padding-left: 0.6em;
   font-family: 'share-regularregular';   
   font-size: 200%;
 }
@@ -142,4 +143,9 @@ p + p {
 
 .brand h1 b {
   font-family: 'share-boldregular';     
+}
+
+.container {
+  width: 750px;
+  margin: 0 auto;
 }
