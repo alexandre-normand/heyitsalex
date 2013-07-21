@@ -1,8 +1,8 @@
 
-<div class="post-full">
+<div class="row-fluid post-full">
   <div class="container content">
     <div class="date">
-      <span>{{ page.date | date_to_long_string }}</span>
+      <span>{{ page.date | date: "%B %d %Y" }}</span>
     </div>
     <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
     
