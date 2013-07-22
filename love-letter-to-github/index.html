@@ -1,0 +1,163 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Love Letter to Github</title>
+    
+    <meta name="author" content="Alexandre Normand">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
+    <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300|Source+Code+Pro:400,700|Quattrocento+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="/assets/themes/twitter/css/fonts.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+    <link rel="shortcut icon" href="/images/alex-normand.ico"> 
+    <link rel="apple-touch-icon" href="/images/alex-normand.png">
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="">
+
+  </head>
+
+  <body>
+    <div class="brand">      
+      <div class="container">    
+          <a href="/"><h1>Hey, it's <b>Alex</b>!</h1></a>              
+          <h2 class="subtitle">Creating through Software, but not exclusively.</h2>
+      </div>
+    </div>
+    <div class="container">
+      <div class="content">
+        
+
+<div class="row-fluid post-full">
+  <div class="container content">
+    <div class="date">
+      <span>December 16 2012</span>
+    </div>
+    <h1>Love Letter to Github </h1>
+    
+
+    <div class="post content">
+      <figure class="full"><img src="http://heyitsalex.net/wp-content/uploads/2012/12/Octocalex-2012-12-16-07.49.31-168-PM1.png" /><figcaption>I'm really sorry about this. I wanted an image and I thought drawing myself octocat-style would be cool. I guess it could have been if I had done a better job. For the record, I blame the tools. No SketchBook Ink for me next time.</figcaption></figure>
+
+<p>I have one thing I want to say today: I love <a href="https://github.com/">Github</a>.</p>
+
+<p>Since this would just barely be worthy of a tiny tweet (and not even a <em>good</em> one), I’m going to stretch this as far as I can to get to a blog post length. Just because I feel like blogging today. Yes, that’s just how it’s going to be.</p>
+
+<p>The past week was really great. Don’t you care to know why? Well, fine, I’m telling anyway.</p>
+
+<p>It starts with me just trying to get some data on the distribution of the data across regions in hbase. I thought it was something we should be looking at.</p>
+
+<p>Enters <a href="https://github.com/sentric/hannibal">Hannibal</a>.</p>
+
+<p>In a few minutes, I had cloned it, built it and had it running against one of our clusters. The visuals are really good and it definitely increases our ability to quickly see where we’re at compared to a text output (which can also be done pretty easily with an hbase shell script).</p>
+
+<p>With this running instance on our data quickly came the realization that we’d use this for real. And, like, <em>right now</em>.</p>
+
+<p>On closer look, I noticed issues with getting compaction logs. Also, I started thinking of some things we might tweak to make it easier to have this deployed and running internally.</p>
+
+<p>I’m not going to go into the details of the changes involved. The <strong>process</strong> is really the topic I had in mind when sitting down to write this. Or rather the lack thereof really.</p>
+
+<p>Did you notice? I just lied straight to your face and I knew you wouldn’t budge. Actually, there <em>is</em> a process but Github makes it all so easy and fun that it doesn’t feel like the drag we so often associate with processes.</p>
+
+<p>Here’s how this lays out: You read about this thing or google your way to it. You need this thing and someone already wrote it. It starts here and then…</p>
+
+<ol>
+  <li>
+    <p>Clone, build, run and use the thing.</p>
+  </li>
+  <li>
+    <p>There’s something missing or that could use some improvement.</p>
+  </li>
+  <li>
+    <p>You feel the urge to fix it.</p>
+  </li>
+</ol>
+
+<p>That’s the critical part right there. It’s often where things <em>get complicated</em>. You might need to file a ticket first with steps to reproduce. You might need to sell people of that feature you think <em>should definitely</em> be in the scope of the project. You know, it’s complicated™. But Github helps. Let’s get on with how this goes with it…</p>
+
+<ol>
+  <li>
+    <p>You fork it. A one click step.</p>
+  </li>
+  <li>
+    <p>You do the work. And it’s the most fun part. You’re excited because this is something that bugged <em>you</em>. It’s something <em>you</em> care about.</p>
+  </li>
+  <li>
+    <p>Done with the changes? Now it’s pull requesta extravaganza! This is when you get to show off the interesting work you’ve cared so much about. Also, because it’s cool to work with people excited about your project, interesting discussions follow. Meeting new folks. You know, <em>talking</em> (or, more accurately, <em>typing</em>).</p>
+  </li>
+  <li>
+    <p>I’m just describing one scenario here but let’s say everything is right and your changes were merged into the upstream repo. Doesn’t this feel <em>great</em>? It’s almost silly but I just feel like a little boy and I want to show mommy how proud I am of the thing I just did. Even for a one line change. I’d like to show the whole world about this thing I just did. Please refrain though. People will run away screaming if you do this too often. And maybe even the first time you do it. So, please, don’t!</p>
+  </li>
+  <li>
+    <p>You just feel like smiling.</p>
+  </li>
+</ol>
+
+<p>To be fair, you can get the same great rewarding feeling from contributing to any open source project even if that’s not hosted on <a href="https://github.com/">Github</a>. But the entry barrier is just a little bit higher. It takes more time. Some of that precious and limited energy that you have is spent on the <em>other</em> stuff that, well, isn’t as much fun.</p>
+
+<p>Anything to make the process so easy it just seems to <em>not</em> exist is an amazing feat. <a href="https://github.com/">Github</a> really enables tons of changes (okay, I just made that up but I really think it’s a good uneducated guess) by just making a path available from discovering a personal need to getting it done. Github is empowering people to fix it <em>immediately</em>. And we all know how momentum is important.</p>
+
+<p>I think I won’t shock anyone if I say we wouldn’t want to go back to a world without <a href="https://github.com/">Github</a>. More than <a href="http://www.jetbrains.com/">JetBrains</a>, Github really brings the <em>develop with pleasure</em> motto to life.</p>
+
+<p>Dear Github, I love you. Never leave me.</p>
+
+    </div>
+
+    <hr>
+    
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_developer = 1;
+    var disqus_shortname = 'hey-its-alex'; // required: replace example with your forum shortname
+    var disqus_identifier = '179 http://alexandre-normand.github.io/?p=179';
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+  </div>
+</div>
+
+
+          <footer>          
+          <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">All content on this blog is the creation of <a xmlns:cc="http://creativecommons.org/ns#" href="/" property="cc:attributionName" rel="cc:attributionURL">Alexandre Normand</a> unless stated otherwise</span>. I'm licensing it under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>. Have fun.
+          </p>
+        </footer>
+      </div>
+    </div>
+    
+
+    
+  </body>
+</html>
+
