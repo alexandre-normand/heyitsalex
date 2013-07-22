@@ -35,7 +35,7 @@
     width: 150px;
     display: block;
     text-align: right;
-    margin: 23px 0 0 -210px;
+    margin: 12px 0 0 -210px;
     float: left;
  }
 
@@ -110,9 +110,13 @@ footer {
  padding-bottom: 1.5em;
 }
 
-.brand {
-  color: #6EADEB;
-  background-color: #3D546E;
+.content h1 {
+  font-family: 'Lato', 'HelveticaNeue-Light', sans-serif;
+  color: #3F3F3F;
+}
+
+.brand {  
+  background-color: #90B0CC;
   display: block;
   padding-bottom: 1em;
 }
@@ -124,12 +128,8 @@ footer {
   font-size: 200%;
 }
 
-.brand h1 {
-  font-family: 'share-regularregular';   
-  font-size: 200%;
-}
-
 .brand h2.subtitle {
+  color: #F1FAFF;
   padding-top: 0.3em;
   font-family: 'share-regularregular';   
   font-size: 140%;
@@ -139,11 +139,22 @@ footer {
 }
   
 .brand a {
-  color: #6EADEB;
+  color: #45698B;
   text-decoration:none;
+  /* First we need to help some browsers along for this to work.
+     Just because a vendor prefix is there, doesn't mean it will
+     work in a browser made by that vendor either, it's just for
+     future-proofing purposes I guess. */
+  -o-transition:0.2s;
+  -ms-transition:0.2s;
+  -moz-transition:0.2s;
+  -webkit-transition:0.2s;
+  /* ...and now for the proper property */
+  transition:0.2s;
 }
+
 .brand a:hover {
-  color: #FFFFFF;
+  color: #5F90BF;
 }
 
 .brand h1 b {
@@ -168,6 +179,16 @@ footer {
 
 .code {
   font-family: 'Source Code Pro';
-  background-color: '#454545';
+  background-color: '#2A3F42';
+  color: #3283B0;
   display: block;
+}
+
+.code b {
+  font-family: 'Source Code Pro';  
+  color: #B7C22C;  
+}
+
+.post {
+  margin-top: 2.5em;
 }
