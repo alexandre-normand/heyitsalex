@@ -18,32 +18,20 @@ You can tell I felt inspired by that work. I also happen to take random unpublis
 
 {% image full http://farm9.staticflickr.com/8234/8508412905_e34d5b1429_b.jpg "This is it." %}
   
-
+{::options parse_block_html="true" /}
+<div class="techdetails">
 Technical details:
 
-
-   
-
-
-      
   * Original picture processed with Aperture, exported via Dropbox to iPad.
 
-
-      
   * I drew the a low-resolution version of the snail with [Paper](http://www.fiftythree.com/paper) on the iPad and my [Pogo Connect](http://www.tenonedesign.com/connect.php)
 
-
-      
   * Then, I exported to [Procreate](http://www.procreate.si/) and used it as the basis for a higher resolution and full color version.
 
-
-      
   * Composited the photo and drawing in Procreate.
 
-
-      
   * That output was then tweaked with snapseed for drama and then [Photoshop Touch](http://www.adobe.com/products/photoshop-touch.html) to add the horizontal black border.
-
+</div>
 
    
 

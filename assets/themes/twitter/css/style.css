@@ -192,3 +192,33 @@ footer {
 .post {
   margin-top: 2.5em;
 }
+
+.techdetails {
+  font-family: 'Lato', 'HelveticaNeue-Light', sans-serif;
+  font-size: 90%;
+  line-height: 110%;
+  background-color: #EFEFEF;  
+  color: #3F3F3F;  
+  margin-left: 25px;
+  padding: 20px 5px 5px 20px;
+  overflow: hidden;  
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+  border-radius:5px;
+}
+
+.techdetails ul {
+  list-style: none;
+}
+
+.techdetails ul li p {
+  padding:8px;
+  background-color:#e6e6e6;
+  border-left:1px solid #999;
+  padding-bottom: 2px;
+}
+
+.techdetails ul li{
+  padding:0 5px;
+}
+
