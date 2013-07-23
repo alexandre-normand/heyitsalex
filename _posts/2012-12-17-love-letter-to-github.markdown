@@ -10,7 +10,7 @@ categories:
 - nothing
 ---
 
-{% image full http://heyitsalex.net/wp-content/uploads/2012/12/Octocalex-2012-12-16-07.49.31-168-PM1.png "I'm really sorry about this. I wanted an image and I thought drawing myself octocat-style would be cool. I guess it could have been if I had done a better job. For the record, I blame the tools. No SketchBook Ink for me next time." %}
+{% image medium http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/12/Octocalex-2012-12-16-07.49.31-168-PM1.png "I'm really sorry about this. I wanted an image and I thought drawing myself octocat-style would be cool. I guess it could have been if I had done a better job. For the record, I blame the tools. No SketchBook Ink for me next time." %}
 
 I have one thing I want to say today: I love [Github](https://github.com/).
 

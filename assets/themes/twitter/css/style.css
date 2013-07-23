@@ -31,7 +31,7 @@
 .post-full .date {
     font-size: 0.45em;
     font-variant: small-caps;
-    vertical-align: 60%;
+    vertical-align: 50%;
     color: #666;    
     width: 100px;        
  }
@@ -45,13 +45,44 @@
     margin-right: 0px;    
 }
 
+figure.full img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;  
+}
+
+figure.medium
+{
+    width:400px;
+    margin-top:30px;
+    margin-bottom:30px;            
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+figure.large
+{
+    width:500px;
+    margin-top:30px;
+    margin-bottom:30px;            
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+figure.large img {
+    width:500px; 
+    height: auto;
+}
+
 figcaption
 {
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    background-color: #FEFEFE;    
-    font-size: 80%;
-    font-variant: small-caps;
+    font-family: "Quattrocento Sans", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    background-color: #EFEFEF;    
+    font-size: 90%;        
     margin-left: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    text-align: justify;
     display: block;
 }
 
@@ -109,11 +140,14 @@ footer {
 .content h1 {
   font-family: 'Lato', 'HelveticaNeue-Light', sans-serif;
   color: #3F3F3F;
+  font-size: 1.8em;
 }
 
 .brand {  
   background-color: #90B0CC;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding-bottom: 1em;
 }
 
@@ -128,7 +162,7 @@ footer {
   color: #F1FAFF;
   padding-top: 0.3em;
   font-family: 'share-regularregular';   
-  font-size: 140%;
+  font-size: 130%;
   font-style: italic;
   padding-left: 75px;
   margin-top: -1em;
@@ -157,8 +191,7 @@ footer {
   font-family: 'share-boldregular';     
 }
 
-.container {
-  width: 800px;
+.container {  
   margin: 0 auto;
 }
 

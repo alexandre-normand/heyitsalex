@@ -25,7 +25,7 @@ What I've come to believe is that the key to doing great work consistently lies 
 
 ## 1. [The Seinfeld Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 
-{% image full http://heyitsalex.net/wp-content/uploads/2012/06/calendar167d36622f4559b122840489a4b456b59efb1581.jpg)](http://heyitsalex.net/wp-content/uploads/2012/06/calendar167d36622f4559b122840489a4b456b59efb1581.jpg "My Calendar for July, a Really Bad Example of a Seinfeld Chain Illustration Because it's Empty since the Month Hasn't started Yet." %}
+{% image full http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/06/calendar167d36622f4559b122840489a4b456b59efb1581.jpg "My Calendar for July, a Really Bad Example of a Seinfeld Chain Illustration Because it's Empty since the Month Hasn't started Yet." %}
 
 It doesn't have to be daily but you should have a schedule with outputs and you should stick to it. Of course, if you're just a slacker constantly putting off tasks, that won't help. You might get some things done once in a while but your chain will look like a bunch of stupid rings. You will look at this and think back at this [Seinfeld chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret) and since your efforts are so pathetic, you'll just give up and never get anything done.
 
@@ -43,6 +43,6 @@ Ok, that last part was pretty dry but it's the key to something so it had to be 
 
 Until next time, stay curious and don't let you phone run out of battery (unrelated advice but it's really not cool if someone needs to call you and you can't get the call).
 
-_Coming next: how to master a second language as a grown-up? _
+*Coming next: how to master a second language as a grown-up?*
 
-_(okay, it won't be my next post, it's more of an actual question from me to the world! I don't know how, I'm so horrendously horrible at this)._
+*(okay, it won't be my next post, it's more of an actual question from me to the world! I don't know how, I'm so horrendously horrible at this).*

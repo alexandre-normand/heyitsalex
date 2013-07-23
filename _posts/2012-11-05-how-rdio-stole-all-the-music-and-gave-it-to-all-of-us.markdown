@@ -10,7 +10,7 @@ categories:
 - nothing
 ---
 
-{% image full http://heyitsalex.net/wp-content/uploads/2012/10/DSC_1031-1024x682.jpg "My old days of listening to music." %}
+{% image full http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/10/DSC_1031-1024x682.jpg "My old days of listening to music." %}
 
 > “We've got all you music. Surrender a fee and it's yours.”
 

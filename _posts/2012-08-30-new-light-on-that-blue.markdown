@@ -10,16 +10,13 @@ categories:
 - one more thing to write about
 ---
 
-_What follows is my take on [another](http://heyitsalex.net/what-can-happen-in-a-second/) prompt from [642 Things to Write About](http://www.amazon.com/Things-Journal-Francisco-Writers-Grotto/dp/1452105448). It's pretty personal, borderline personal diary. Yeah._
+*What follows is my take on [another](http://heyitsalex.net/what-can-happen-in-a-second/) prompt from [642 Things to Write About](http://www.amazon.com/Things-Journal-Francisco-Writers-Grotto/dp/1452105448). It's pretty personal, borderline personal diary. Yeah.
+Since this blog is my miscellaneous bucket and I'm the editor, I say it's **in**. Let's ship it. Then, see how it feels.
+Do not worry, I'm not planning on making regular posts about my feelings, probably.*
 
-_Since this blog is my miscellaneous bucket and I'm the editor, I say it's **in**. Let's ship it. Then, see how it feels. _
+*So here it is, my take on this prompt:*
 
-_Do not worry, I'm not __planning on making regular posts about my feelings, probably.   _
-
-_So here it is, my take on this prompt:  _
-
-
-___What a character holding a blue object is thinking about? _
+***What a character holding a blue object is thinking about?***
 
 
 There I was, holding a blue pen. I had just lost my train of thought. I wasn't exactly looking at it so much as this was an out of focus blue spot. Not any blue either. It was a blue recalling Québec's national blue. I always felt pretty neutral with that particular hue. I always loved blue but I disliked this particular one, much to my chagrin.

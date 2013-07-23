@@ -10,7 +10,7 @@ categories:
 - nothing
 ---
 
-{% image full http://heyitsalex.net/wp-content/uploads/2012/10/JeMeSouviensVersion2Landscape-1024x522.jpg "I remember. Well, at least, what I haven't forgotten." %}
+{% image full http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/10/JeMeSouviensVersion2Landscape-1024x522.jpg "I remember. Well, at least, what I haven't forgotten." %}
 
 _Update: the initial version was way too purple on print. It did look fine on my iPhone screen but the print was definitely not blue, especially when under indoor lights. The guys at gelaskin were kind enough to give me another one for free that I could do with an updated version of the image. This is what you're seeing here. I changed the blue to something that I felt was a safer bet (and better looking to). They looked at it before shipping and they did confirm it looked blue...for real this time._
 
@@ -30,7 +30,7 @@ Oh, you can't? Well, I made my own gelaskin. My Quebec flag gelaskin. I'm not su
 
 Like it? Feel free to use [it](http://heyitsalex.net/wp-content/uploads/2012/10/JeMeSouviensVersion2.jpg) to make your own. Or just try it to see how it looks using [gelaskin's custom skin creator](http://www.gelaskins.com/create).
 
-{% image full http://heyitsalex.net/wp-content/uploads/2012/10/The-Result-1024x681.jpg "The Real Thing." %}
+{% image full http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/10/The-Result-1024x681.jpg "The Real Thing." %}
 
 San Francisco is not Montreal. Talking specifically about weather (yep, this has been my great weather post!), we won't get the great snowstorms of Montreal's winter. That doesn't mean it's always the same though. It might seem like it is sometimes. Monday, Tuesday, Wednesday: same forecast.
 

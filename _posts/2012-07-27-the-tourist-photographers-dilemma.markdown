@@ -14,7 +14,6 @@ I wholeheartedly loathe tourist photos. I really do. I get angry just thinking a
 
 
 > 
-
 > 
 > ...
 > 
@@ -26,7 +25,7 @@ Okay, I'm back (I actually just grabbed a snack instead).
 
 Let me first explain what I think is the problem with tourist photos: they're just too much. It's all inclusive. It has you, your kids, all of your magnificent landmark and it's surroundings. That kind of thing _never_ works. Cameras should just pretend to be out of battery when faced with such a scene (they can recognizes _faces _already so that's possible right?).
 
-{% image full http://heyitsalex.net/wp-content/uploads/2012/07/DSC_18011-300x225.jpg "This is a Boston landmark picture subtly showcasing the family. I'm not terribly proud of it but I don't need to hide when people ask if I took it (I mean, if I were to hide, it would not be because of that)." %}
+{% image full http://farm8.staticflickr.com/7423/9349733524_71036a6a7c_h_d.jpg "This is a Boston landmark picture subtly showcasing the family. I'm not terribly proud of it but I don't need to hide when people ask if I took it (I mean, if I were to hide, it would not be because of that)." %}
 
 The reason it doesn't work is simple: a picture that has more than _one_ thing makes that one thing much more difficult to stand out. We all have different tastes and opinions. As such, you might disagree but let's just stop for a minute to look at pictures we like (I'll go do something better while you take a few moments and do it). I think you'll find that those are recurring patterns: shallow depth of field, uncoloured backgrounds, isolated subject, sharp focus. All of them have the same effect: make _one_ single thing stand out. Even ultra wide angles that seem to capture all of the surroundings produce great images when their focus is on making one thing stand out: the perspective.
 
@@ -34,16 +33,13 @@ Tourist photos are sickening because they do all the opposite. They cram people 
 
 So we're faced with this dilemma as photographers _and_ tourists:
 
-
-
-	
   1. refuse to take the tourist snapshots and just take time to focus on quality work while pissing off everyone in the group
 
 
 or
-
 	
   2. take the snapshots the best you can with your big camera to take the touristy snapshots with better execution.
+  
 
 
 I'm actually not sure we can resolve this to the satisfaction of everyone involved (unless you're a family of photographers) but with a little effort, we can at least make an attempt. Or I tell you how and _you_ make the attempt. Just kidding, I'm not letting _you_ try this alone.
