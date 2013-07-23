@@ -1,17 +1,17 @@
 
-http://alexandre-normand.github.io/about.html
-http://alexandre-normand.github.io/atom.xml
-http://alexandre-normand.github.io/index.html
-http://alexandre-normand.github.io/rss.xml
-http://alexandre-normand.github.io/sitemap.txt
+http://heyitsalex.net/about.html
+http://heyitsalex.net/atom.xml
+http://heyitsalex.net/index.html
+http://heyitsalex.net/rss.xml
+http://heyitsalex.net/sitemap.txt
 
-http://alexandre-normand.github.io/juxtapose
-http://alexandre-normand.github.io/love-letter-to-github
-http://alexandre-normand.github.io/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us
-http://alexandre-normand.github.io/i-still-remember-even-after-6-months
-http://alexandre-normand.github.io/new-light-on-that-blue
-http://alexandre-normand.github.io/what-can-happen-in-a-second
-http://alexandre-normand.github.io/the-tourist-photographers-dilemma
-http://alexandre-normand.github.io/the-ultimate-guide-to-almost-everything-or-nothing
-http://alexandre-normand.github.io/the-san-francisco-guide-for-montrealers
-http://alexandre-normand.github.io/hey-its-a-start
+http://heyitsalex.net/juxtapose
+http://heyitsalex.net/love-letter-to-github
+http://heyitsalex.net/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us
+http://heyitsalex.net/i-still-remember-even-after-6-months
+http://heyitsalex.net/new-light-on-that-blue
+http://heyitsalex.net/what-can-happen-in-a-second
+http://heyitsalex.net/the-tourist-photographers-dilemma
+http://heyitsalex.net/the-ultimate-guide-to-almost-everything-or-nothing
+http://heyitsalex.net/the-san-francisco-guide-for-montrealers
+http://heyitsalex.net/hey-its-a-start
