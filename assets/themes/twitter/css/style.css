@@ -114,6 +114,8 @@ footer {
 .brand {  
   background-color: #90B0CC;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding-bottom: 1em;
 }
 
@@ -157,8 +159,7 @@ footer {
   font-family: 'share-boldregular';     
 }
 
-.container {
-  width: 800px;
+.container {  
   margin: 0 auto;
 }
 
