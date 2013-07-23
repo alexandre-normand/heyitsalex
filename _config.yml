@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 markdown: kramdown
-
+prod: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
@@ -100,11 +100,11 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : getclicky
+    provider : getclicky 
     google : 
         tracking_id : 'UA-32186861-1'
     getclicky :
-      site_id : 100636182
+      site_id : '100636182'
     mixpanel :
         token : '_MIXPANEL_TOKEN_'
     piwik :
