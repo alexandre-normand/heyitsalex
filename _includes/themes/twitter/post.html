@@ -1,10 +1,7 @@
 
 <div class="row-fluid post-full">
-  <div class="container content">
-    <div class="date">
-      <span>{{ page.date | date: "%B %d %Y" }}</span>
-    </div>
-    <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+  <div class="container content">    
+    <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}<span class="date">[{{ page.date | date: "%B %d %Y" }}]</span></h1>
     
 
     <div class="post content">

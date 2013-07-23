@@ -25,26 +25,24 @@
 
 /* post-full*/
 .post-full {
-   margin-top: 2em;
+   margin-top: 1em;
  }
 
 .post-full .date {
-   font-size: 1.2em;
+    font-size: 0.45em;
     font-variant: small-caps;
-    color: #999;
-    width: 150px;
-    display: block;
-    text-align: right;
-    margin: 12px 0 0 -210px;
-    float: left;
+    vertical-align: 60%;
+    color: #666;    
+    width: 100px;        
  }
 
 .post-full figure.full
 {
-    width:102.7%;
+    width:100%;
     margin-top:30px;
-    margin-bottom:30px;
-    margin-left: -0.4%;
+    margin-bottom:30px;            
+    margin-left: 0px;
+    margin-right: 0px;    
 }
 
 figcaption
@@ -102,8 +100,6 @@ footer {
  z-index: 10; 
  line-height: normal;
  margin-top: 10px; 
- /*font-size: 0.65em;
- font-family: 'Source Code Pro';*/
  font-size: 0.75em;
  font-family: 'Lato'; 
  padding-top: 2em; 
@@ -190,7 +186,7 @@ footer {
 }
 
 .post {
-  margin-top: 2.5em;
+  margin-top: 2em;
 }
 
 .techdetails {
