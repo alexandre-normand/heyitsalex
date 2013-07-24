@@ -127,7 +127,7 @@
     min-height: 1px;
     margin-left: 30px;
   }
-  .container,
+  .container,  
   .navbar-static-top .container,
   .navbar-fixed-top .container,
   .navbar-fixed-bottom .container {
@@ -477,7 +477,7 @@
     min-height: 1px;
     margin-left: 20px;
   }
-  .container,
+  .container,  
   .navbar-static-top .container,
   .navbar-fixed-top .container,
   .navbar-fixed-bottom .container {
@@ -804,6 +804,7 @@
     padding-right: 20px;
     padding-left: 20px;
   }
+  .brand,  
   .navbar-fixed-top,
   .navbar-fixed-bottom,
   .navbar-static-top {
