@@ -1,0 +1,12 @@
+{
+    "contentdir": "content",
+    "layoutdir": "layouts",
+    "publishdir": "_site",
+    "builddrafts": false,
+    "indexes": {
+       "category": "categories",
+       "tag": "tags"
+    },
+    "baseurl": "http://heyitsalex.net/",
+    "canonifyurls": true
+}
