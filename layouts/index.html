@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ template "chrome/meta.html" . }}
+    
+    {{ template "chrome/includes.html" . }}
+
+    <link rel="shortcut icon" href="/images/alex-normand.ico"> 
+    <link rel="apple-touch-icon" href="/images/alex-normand.png">
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <!-- atom & rss feed -->
+    <link href="/rss.xml" type="application/atom+xml" rel="alternate" title="{{ .Site.Title }}">    
+
+  </head>
+
+  <body>    
+    {{ template "chrome/menu.html" }}
+
+<div class="container">
+  <div class="content">
+
+  <div class="page-header">
+    <h1>They shall forever be drafts. </h1>
+  </div>
+
+  <div class="row-fluid">
+    <div class="span12">
+
+      <ul class="posts">
+        {{ range .Data.Pages }}        
+          <li><span>{{ .Date.Format "January 2 2006" }}</span><p><a href="{{.RelPermalink }}">{{ .Title }}</a></p></li>
+        {{ end }}
+      </ul>
+           
+    </div>  
+  </div>
+
+{{ template "chrome/footer.html" }}

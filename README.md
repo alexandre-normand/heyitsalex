@@ -1,7 +1,6 @@
-Hey, t's Alex!
+Hey, it's Alex!
 ==============
 
 This is the source to my personal [blog](http://heyitsalex.net).
 
-To publish:
-```./_scripts/build.sh```
+Uses the pretty cool [Hugo](http://hugo.spf13.com/).
