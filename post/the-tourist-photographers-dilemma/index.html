@@ -1,26 +1,19 @@
 <!doctype html>
-<html lang="en">
-  <head>    
-    <title>Hey, It's Alex - The Tourist Photographer&#39;s Dilemma</title>
+<html>
+  <head>
+  <title>The Tourist Photographer&#39;s Dilemma</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-
     
-    <link href="http://heyitsalex.net/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
-    <link href="http://heyitsalex.net/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">     
-    <link href="http://heyitsalex.net/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link href="http://heyitsalex.net/css/ss-social-circle/ss-social-circle.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="http://localhost:1313/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
+    <link href="http://localhost:1313/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">     
+    <link href="http://localhost:1313/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="http://localhost:1313/css/ss-social-circle/ss-social-circle.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href='http://fonts.googleapis.com/css?family=Lato:300|Source+Code+Pro:400,700|Quattrocento+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-    <link href="http://heyitsalex.net/css/fonts.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link rel="shortcut icon" href="http://heyitsalex.net/images/alex-normand.ico"> 
-    <link rel="apple-touch-icon" href="http://heyitsalex.net/images/alex-normand.png">
-    <link rel="canonical" href="http://heyitsalex.net/the-tourist-photographers-dilemma">
-
-    
-    <link href="http://heyitsalex.net/rss.xml" type="application/atom+xml" rel="alternate" title="">    
-
+    <link href="http://localhost:1313/css/fonts.css?body=1" rel="stylesheet" type="text/css" media="all">
   </head>
-  <body>    
+  <body>
+
     <div class="brand">      
       <div class="container">    
           <a href="http://heyitsalex.net"><h1>Hey, it's <b>Alex</b>!</h1></a>              
@@ -32,20 +25,21 @@
             <li><a href="https://github.com/alexandre-normand" class="ss-icon ss-social-circle">octocat</a></li>            
             <li><a href="https://twitter.com/alex_normand" class="ss-icon ss-social-circle">twitter</a></li>                         
             <li>&nbsp;</li>            
-            <li><a href="http://heyitsalex.net/rss.xml" class="ss-icon ss-social-circle">rss</a></li>
+            <li><a href="http://localhost:1313/rss.xml" class="ss-icon ss-social-circle">rss</a></li>
           </ul>
       </div>      
     </div>
 
-<div class="container">
-  <div class="content">
+    <div class="container" id="main">
+      <div class="row">
+        <div class="col-md-12">
 
-    <div class="row-fluid post-full">
-      <div class="container content">  
-       
-      <h1>The Tourist Photographer&#39;s Dilemma <span class="date">[July 27 2012]</span></h1>
+    
+    <div class="row">
+      <div class="small-12 large-offset-1 large-10 columns">
+        <h2>The Tourist Photographer&#39;s Dilemma</h2>
+        <p class="post-date">July 27, 2012</p>
 
-       <div class="post content">
         <p>I wholeheartedly loathe tourist photos. I really do. I get angry just thinking about it. I really really hate this. Let me go outside and throw some rocks on a concrete wall.</p>
 
 <blockquote>
@@ -54,19 +48,9 @@
 
 <p>Okay, I&rsquo;m back (I actually just grabbed a snack instead).</p>
 
-<p>Let me first explain what I think is the problem with tourist photos: they&rsquo;re just too much. It&rsquo;s all inclusive. It has you, your kids, all of your magnificent landmark and it&rsquo;s surroundings. That kind of thing <em>never</em> works. Cameras should just pretend to be out of battery when faced with such a scene (they can recognizes <em>faces</em> already so that&rsquo;s possible right?).</p>
+<p>Let me first explain what I think is the problem with tourist photos: they&rsquo;re just too much. It&rsquo;s all inclusive. It has you, your kids, all of your magnificent landmark and it&rsquo;s surroundings. That kind of thing _never_ works. Cameras should just pretend to be out of battery when faced with such a scene (they can recognizes _faces _already so that&rsquo;s possible right?).</p>
 
-<figure class="full">
-    
-        <img src="http://farm8.staticflickr.com/7423/9349733524_71036a6a7c_h_d.jpg"  />
-    
-    
-    <figcaption>
-        This is a Boston landmark picture subtly showcasing the family. I&#39;m not terribly proud of it but I don&#39;t need to hide when people ask if I took it (I mean, if I were to hide, it would not be because of that).
-        
-    </figcaption>
-    
-</figure>
+<p>{% image full <a href="http://farm8.staticflickr.com/7423/9349733524_71036a6a7c_h_d.jpg">http://farm8.staticflickr.com/7423/9349733524_71036a6a7c_h_d.jpg</a> &ldquo;This is a Boston landmark picture subtly showcasing the family. I&rsquo;m not terribly proud of it but I don&rsquo;t need to hide when people ask if I took it (I mean, if I were to hide, it would not be because of that).&rdquo; %}</p>
 
 <p>The reason it doesn&rsquo;t work is simple: a picture that has more than _one_ thing makes that one thing much more difficult to stand out. We all have different tastes and opinions. As such, you might disagree but let&rsquo;s just stop for a minute to look at pictures we like (I&rsquo;ll go do something better while you take a few moments and do it). I think you&rsquo;ll find that those are recurring patterns: shallow depth of field, uncoloured backgrounds, isolated subject, sharp focus. All of them have the same effect: make _one_ single thing stand out. Even ultra wide angles that seem to capture all of the surroundings produce great images when their focus is on making one thing stand out: the perspective.</p>
 
@@ -88,17 +72,7 @@
 
 <p>So let&rsquo;s try and make tourist pictures better. First, let&rsquo;s forget about showing off that you <em>were there in front of the golden bridge, omg!!</em> People are doing it everyday and you can just tweet it, we&rsquo;ll believe it. If we want to see the golden gate, we can google it and find fabulous shots that have been taken a thousand times.</p>
 
-<figure class="full">
-    <a href="http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/">
-        <img src="http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg"  />
-    </a>
-    
-    <figcaption>
-        One of my favorite touristy-type photos. I secretly waited for the good light while we were having fun and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing.
-        
-    </figcaption>
-    
-</figure>
+<p>{% image full <a href="http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg">http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg</a> &ldquo;One of my favorite touristy-type photos. I secretly waited for the good light while we were &ldquo;having fun&rdquo; and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing.&rdquo; -&gt;<a href="http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/">http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/</a> %}</p>
 
 <p>I&rsquo;m not against using a landmark (or part of it) if it makes for a good picture though. A kid holding a coloured umbrella walking out of the fog on the golden gate bridge would be magnificent (I should do that shot before I start to think of the potential challenges involved). Let&rsquo;s just forget about taking pictures of you and ALL of that gigantic scene. Let&rsquo;s focus on isolated things. If you must take a picture with the statue of a president, make it a close up of yourself French kissing it. Want to capture yourself with the beautiful Apple store? Take a close shot of a reflection in it&rsquo;s recognizable glass walls.</p>
 
@@ -110,13 +84,24 @@
 
 <p><em>Just in case.</em></p>
 
-       </div>             
+
+        <section id="prev">
+          Previous post: <a class="previous" href="http://localhost:1313/post/what-can-happen-in-a-second"><i class="icon-arrow-left"></i> What Can Happen in a Second?</a><br>
+        </section>
+
+        <section id="next">
+          Next post: <a class="next" href="http://localhost:1313/post/the-ultimate-guide-to-almost-everything-or-nothing">The Ultimate Guide to Almost Everything [or Nothing] <i class="icon-arrow-right"></i></a>
+        </section>
+
+      </div> 
+    </div> 
     
 <div class="row">
       <div class="small-offset-1 small-10 columns">
         <div id="disqus_thread"></div>
-        <script type="text/javascript">                        
-        var disqus_shortname = 'hey-its-alex'; 
+        <script type="text/javascript">
+        
+        var disqus_url = "http://localhost:1313/post/the-tourist-photographers-dilemma"
         var disqus_developer = 1;
         </script>
 
@@ -125,9 +110,10 @@
       </div>
     </div>
     
-
+ <div class="container">
+      <div class="content">
           <footer>          
-          <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">All content on this blog is the creation of <a xmlns:cc="http://creativecommons.org/ns#" href="http://heyitsalex.net/" property="cc:attributionName" rel="cc:attributionURL">Alexandre Normand</a> unless stated otherwise</span>. I'm licensing it under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>. Have fun.
+          <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">All content on this blog is the creation of <a xmlns:cc="http://creativecommons.org/ns#" href="http://localhost:1313/" property="cc:attributionName" rel="cc:attributionURL">Alexandre Normand</a> unless stated otherwise</span>. I'm licensing it under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>. Have fun.
           </p>
         </footer>
       </div>

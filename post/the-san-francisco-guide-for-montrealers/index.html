@@ -1,26 +1,19 @@
 <!doctype html>
-<html lang="en">
-  <head>    
-    <title>Hey, It's Alex - The San Francisco Guide for Montréalers</title>
+<html>
+  <head>
+  <title>The San Francisco Guide for Montréalers</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-
     
-    <link href="http://heyitsalex.net/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
-    <link href="http://heyitsalex.net/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">     
-    <link href="http://heyitsalex.net/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link href="http://heyitsalex.net/css/ss-social-circle/ss-social-circle.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="http://localhost:1313/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
+    <link href="http://localhost:1313/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">     
+    <link href="http://localhost:1313/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="http://localhost:1313/css/ss-social-circle/ss-social-circle.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href='http://fonts.googleapis.com/css?family=Lato:300|Source+Code+Pro:400,700|Quattrocento+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-    <link href="http://heyitsalex.net/css/fonts.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link rel="shortcut icon" href="http://heyitsalex.net/images/alex-normand.ico"> 
-    <link rel="apple-touch-icon" href="http://heyitsalex.net/images/alex-normand.png">
-    <link rel="canonical" href="http://heyitsalex.net/the-san-francisco-guide-for-montrealers">
-
-    
-    <link href="http://heyitsalex.net/rss.xml" type="application/atom+xml" rel="alternate" title="">    
-
+    <link href="http://localhost:1313/css/fonts.css?body=1" rel="stylesheet" type="text/css" media="all">
   </head>
-  <body>    
+  <body>
+
     <div class="brand">      
       <div class="container">    
           <a href="http://heyitsalex.net"><h1>Hey, it's <b>Alex</b>!</h1></a>              
@@ -32,20 +25,21 @@
             <li><a href="https://github.com/alexandre-normand" class="ss-icon ss-social-circle">octocat</a></li>            
             <li><a href="https://twitter.com/alex_normand" class="ss-icon ss-social-circle">twitter</a></li>                         
             <li>&nbsp;</li>            
-            <li><a href="http://heyitsalex.net/rss.xml" class="ss-icon ss-social-circle">rss</a></li>
+            <li><a href="http://localhost:1313/rss.xml" class="ss-icon ss-social-circle">rss</a></li>
           </ul>
       </div>      
     </div>
 
-<div class="container">
-  <div class="content">
+    <div class="container" id="main">
+      <div class="row">
+        <div class="col-md-12">
 
-    <div class="row-fluid post-full">
-      <div class="container content">  
-       
-      <h1>The San Francisco Guide for Montréalers <span class="date">[June 14 2012]</span></h1>
+    
+    <div class="row">
+      <div class="small-12 large-offset-1 large-10 columns">
+        <h2>The San Francisco Guide for Montréalers</h2>
+        <p class="post-date">June 14, 2012</p>
 
-       <div class="post content">
         
 
 <p>You dear reader should already know that I&rsquo;m a new San Franciscan and ex-Montréaler. As such, I present you with great authority the definite guide to San Francisco for Montréalers. It&rsquo;s really more of a collection of fairly obvious differences between Montréal and San Francisco. I really rely on my blog getting zero readership to shield me from real potential of offending residents of both cities. It may have been better titled as &ldquo;10 differences between Montréal and San Francisco&rdquo; but I hate those. They most often come in round numbers which I find suspicious. How convenient would it be if there were really 10 differences between the two cities?</p>
@@ -128,17 +122,7 @@
 
 <h2 id="toc_7">Olds Cars are Still Alive</h2>
 
-<figure class="full">
-    
-        <img src="http://farm9.staticflickr.com/8083/8301735631_94f6473094_o_d.jpg"  />
-    
-    
-    <figcaption>
-        The last sample before I felt very very blasé.
-        
-    </figcaption>
-    
-</figure>
+<p>{% image full <a href="http://farm9.staticflickr.com/8083/8301735631_94f6473094_o_d.jpg">http://farm9.staticflickr.com/8083/8301735631_94f6473094_o_d.jpg</a> &ldquo;The last sample before I felt very very blasé.&rdquo; %}</p>
 
 <p>I hate cars or at least, I dislike them. I still have my driver&rsquo;s license but I&rsquo;m a happy fellow when I see anything that prevents cars from being on the street. However, I love the retro look of cars for their visual attractiveness and how they stand out. You might have seen some instagrams as a proof of that. I stopped doing those though. Not because I don&rsquo;t see any retro cars anymore, it&rsquo;s just the opposite: old pastel blue painted fords, rusty Beatles, buicks, Cadillacs. They survived in California. They&rsquo;re all over the place along with the newer models. Not in junkyards, they&rsquo;re just there around the corner.</p>
 
@@ -154,13 +138,24 @@
 
 <p>You could think I regret leaving Montréal and in some ways, I could. Except that I don&rsquo;t really. It&rsquo;s really nice here. And work is great. And there&rsquo;s the ocean, and the golden gate, and all the great tech and the promise of great historical earthquakes. Oh shit shit shit, the earthquakes&hellip;</p>
 
-       </div>             
+
+        <section id="prev">
+          Previous post: <a class="previous" href="http://localhost:1313/post/the-ultimate-guide-to-almost-everything-or-nothing"><i class="icon-arrow-left"></i> The Ultimate Guide to Almost Everything [or Nothing]</a><br>
+        </section>
+
+        <section id="next">
+          Next post: <a class="next" href="http://localhost:1313/post/hey-its-a-start">Hey, it&#39;s a Start <i class="icon-arrow-right"></i></a>
+        </section>
+
+      </div> 
+    </div> 
     
 <div class="row">
       <div class="small-offset-1 small-10 columns">
         <div id="disqus_thread"></div>
-        <script type="text/javascript">                        
-        var disqus_shortname = 'hey-its-alex'; 
+        <script type="text/javascript">
+        
+        var disqus_url = "http://localhost:1313/post/the-san-francisco-guide-for-montrealers"
         var disqus_developer = 1;
         </script>
 
@@ -169,9 +164,10 @@
       </div>
     </div>
     
-
+ <div class="container">
+      <div class="content">
           <footer>          
-          <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">All content on this blog is the creation of <a xmlns:cc="http://creativecommons.org/ns#" href="http://heyitsalex.net/" property="cc:attributionName" rel="cc:attributionURL">Alexandre Normand</a> unless stated otherwise</span>. I'm licensing it under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>. Have fun.
+          <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">All content on this blog is the creation of <a xmlns:cc="http://creativecommons.org/ns#" href="http://localhost:1313/" property="cc:attributionName" rel="cc:attributionURL">Alexandre Normand</a> unless stated otherwise</span>. I'm licensing it under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>. Have fun.
           </p>
         </footer>
       </div>

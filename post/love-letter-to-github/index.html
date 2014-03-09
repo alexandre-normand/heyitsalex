@@ -1,26 +1,19 @@
 <!doctype html>
-<html lang="en">
-  <head>    
-    <title>Hey, It's Alex - Love Letter to Github</title>
+<html>
+  <head>
+  <title>Love Letter to Github</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-
     
-    <link href="http://heyitsalex.net/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
-    <link href="http://heyitsalex.net/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">     
-    <link href="http://heyitsalex.net/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link href="http://heyitsalex.net/css/ss-social-circle/ss-social-circle.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="http://localhost:1313/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
+    <link href="http://localhost:1313/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">     
+    <link href="http://localhost:1313/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="http://localhost:1313/css/ss-social-circle/ss-social-circle.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href='http://fonts.googleapis.com/css?family=Lato:300|Source+Code+Pro:400,700|Quattrocento+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-    <link href="http://heyitsalex.net/css/fonts.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link rel="shortcut icon" href="http://heyitsalex.net/images/alex-normand.ico"> 
-    <link rel="apple-touch-icon" href="http://heyitsalex.net/images/alex-normand.png">
-    <link rel="canonical" href="http://heyitsalex.net/love-letter-to-github">
-
-    
-    <link href="http://heyitsalex.net/rss.xml" type="application/atom+xml" rel="alternate" title="">    
-
+    <link href="http://localhost:1313/css/fonts.css?body=1" rel="stylesheet" type="text/css" media="all">
   </head>
-  <body>    
+  <body>
+
     <div class="brand">      
       <div class="container">    
           <a href="http://heyitsalex.net"><h1>Hey, it's <b>Alex</b>!</h1></a>              
@@ -32,31 +25,22 @@
             <li><a href="https://github.com/alexandre-normand" class="ss-icon ss-social-circle">octocat</a></li>            
             <li><a href="https://twitter.com/alex_normand" class="ss-icon ss-social-circle">twitter</a></li>                         
             <li>&nbsp;</li>            
-            <li><a href="http://heyitsalex.net/rss.xml" class="ss-icon ss-social-circle">rss</a></li>
+            <li><a href="http://localhost:1313/rss.xml" class="ss-icon ss-social-circle">rss</a></li>
           </ul>
       </div>      
     </div>
 
-<div class="container">
-  <div class="content">
+    <div class="container" id="main">
+      <div class="row">
+        <div class="col-md-12">
 
-    <div class="row-fluid post-full">
-      <div class="container content">  
-       
-      <h1>Love Letter to Github <span class="date">[December 17 2012]</span></h1>
+    
+    <div class="row">
+      <div class="small-12 large-offset-1 large-10 columns">
+        <h2>Love Letter to Github</h2>
+        <p class="post-date">December 17, 2012</p>
 
-       <div class="post content">
-        <figure class="medium">
-    
-        <img src="http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/12/Octocalex-2012-12-16-07.49.31-168-PM1.png"  />
-    
-    
-    <figcaption>
-        I&#39;m really sorry about this. I wanted an image and I thought drawing myself octocat-style would be cool. I guess it could have been if I had done a better job. For the record, I blame the tools. No SketchBook Ink for me next time.
-        
-    </figcaption>
-    
-</figure>
+        <p>{% image medium <a href="http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/12/Octocalex-2012-12-16-07.49.31-168-PM1.png">http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/12/Octocalex-2012-12-16-07.49.31-168-PM1.png</a> &ldquo;I&rsquo;m really sorry about this. I wanted an image and I thought drawing myself octocat-style would be cool. I guess it could have been if I had done a better job. For the record, I blame the tools. No SketchBook Ink for me next time.&rdquo; %}</p>
 
 <p>I have one thing I want to say today: I love <a href="https://github.com/">Github</a>.</p>
 
@@ -110,13 +94,24 @@
 
 <p>Dear Github, I love you. Never leave me.</p>
 
-       </div>             
+
+        <section id="prev">
+          Previous post: <a class="previous" href="http://localhost:1313/post/juxtapose"><i class="icon-arrow-left"></i> Juxtapose</a><br>
+        </section>
+
+        <section id="next">
+          Next post: <a class="next" href="http://localhost:1313/post/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us">How Rdio Stole all the Music and Gave it to All of Us  <i class="icon-arrow-right"></i></a>
+        </section>
+
+      </div> 
+    </div> 
     
 <div class="row">
       <div class="small-offset-1 small-10 columns">
         <div id="disqus_thread"></div>
-        <script type="text/javascript">                        
-        var disqus_shortname = 'hey-its-alex'; 
+        <script type="text/javascript">
+        
+        var disqus_url = "http://localhost:1313/post/love-letter-to-github"
         var disqus_developer = 1;
         </script>
 
@@ -125,9 +120,10 @@
       </div>
     </div>
     
-
+ <div class="container">
+      <div class="content">
           <footer>          
-          <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">All content on this blog is the creation of <a xmlns:cc="http://creativecommons.org/ns#" href="http://heyitsalex.net/" property="cc:attributionName" rel="cc:attributionURL">Alexandre Normand</a> unless stated otherwise</span>. I'm licensing it under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>. Have fun.
+          <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">All content on this blog is the creation of <a xmlns:cc="http://creativecommons.org/ns#" href="http://localhost:1313/" property="cc:attributionName" rel="cc:attributionURL">Alexandre Normand</a> unless stated otherwise</span>. I'm licensing it under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>. Have fun.
           </p>
         </footer>
       </div>
