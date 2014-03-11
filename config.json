@@ -1,7 +1,7 @@
 {
     "contentdir": "content",
     "layoutdir": "layouts",
-    "publishdir": "_site",
+    "publishdir": "public",
     "builddrafts": false,
     "indexes": {
        "category": "categories",
