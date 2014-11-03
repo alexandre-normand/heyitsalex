@@ -25,7 +25,7 @@ Today though, this blue is reminiscent of what we've left behind. We always knew
 
 {{% fig class="full" src="http://ppcdn.500px.org/12645417/0b98f5eab9f13403a48f3489fdc6a8058a985dbc/4.jpg" title="There's that theme of being somewhere else, shot by me in the Golden Gate Park woods." %}}
 
-Some days, we read about cool things that are happening right here, only here. Those days, I feel very fortunate to be here. Other days, we read about some interesting change happening in Montreal and we feel like we're missing out. This is a very typical case of nostalgia versus novelty.
+Some days, we read about cool things that are happening right here, only here. Those days, I feel very fortunate to be here. Other days, we read about some interesting change happening in Montréal and we feel like we're missing out. This is a very typical case of nostalgia versus novelty.
 
 All of that is relatively minor though, in the grand scheme of things.
 
@@ -40,7 +40,7 @@ What friends I hear you thinking?
 
 It's true that I didn't have many. I had to make sacrifices when it became obvious that, as a parent, I wouldn't have the time to do all I was doing before. Friendship took second place to personal projects and family.
 
-Except that this is oversimplifying. I still had friends. I was seeing some of them almost exclusively at the office but they _were_ my friends.
+Except that this is oversimplifying. I still had friends. I was seeing some of them almost exclusively at the office but they _were_ my friends.
 
 I knew it wouldn't be easy to make new friends. I was anticipating that the English speaking version of me would be struggling to find the words to express nuanced thoughts. It would be more difficult to be _me_.
 
