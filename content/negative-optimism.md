@@ -32,3 +32,5 @@ Of course, how this affects how I live now gets a bit more complicated. We all w
 So maybe that's it. It might be time to come to peace with the resolution that we screwed up. Come to terms with the idea that _we_ are the problem. Saying our final good byes before we go the way of the dodo. And know, that maybe, probably, there will still be life after us and that life will be smart enough to not try and get too smart to disturb a fragile and beautiful equilibrium. 
 
 But, of course, this might also be a bump in the road to a brighter, continuously evolving set of thoughts and ideas where we’d be a force for good. 
+
+_Update: Back to [positive optimism](/positive-optimism) with new information after digging into pre-history. Read the [next post](/positive-optimism) for my current thoughts._
