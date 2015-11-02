@@ -3,18 +3,32 @@
   <channel>
       <title>Recent Content on  </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.heyitsalex.net/index.xml/</link>
+    <link>http://localhost:1313/index.xml/</link>
     
     
     
-    <updated>Tue, 22 Sep 2015 09:00:00 PDT</updated>
+    <updated>Sun, 01 Nov 2015 08:00:00 PST</updated>
+    
+    <item>
+      <title>Positive Optimism</title>
+      <link>http://localhost:1313/positive-optimism/</link>
+      <pubDate>Sun, 01 Nov 2015 08:00:00 PST</pubDate>
+      
+      <guid>http://localhost:1313/positive-optimism/</guid>
+      <description>&lt;p&gt;I felt lost when I wrote my &lt;a href=&#34;/negative-optimism&#34;&gt;previous post&lt;/a&gt; regarding the &lt;a href=&#34;https://en.wikipedia.org/wiki/Holocene_extinction&#34;&gt;Holocene extinction&lt;/a&gt;. I thought I had just learned that our species had a destructive nature since its inception even &lt;a href=&#34;https://en.wikipedia.org/wiki/Seven_generation_sustainability&#34;&gt;within cultures focusing on sustainability&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I now think that I had misinterpreted my readings. Whether intentional or not, &lt;a href=&#34;http://www.amazon.com/Sixth-Extinction-Unnatural-History/dp/1250062187/ref=sr_1_1?ie=UTF8&amp;amp;qid=1446433599&amp;amp;sr=8-1&amp;amp;keywords=The+Sixth+Extinction&#34;&gt;The Sixth Extinction&lt;/a&gt; implied with the retelling of conversations about the history of homo sapiens that destruction had followed the path of our species from our early beginnings. However, after some more researching, it appears that, while there were extinctions before civilization, those were not quite at the same level nor within the same context. I already had some intuition to that effect and I felt relief to find some of that evidence presented in &lt;a href=&#34;https://leanpub.com/rewildandlive&#34;&gt;Rewild 101&lt;/a&gt;. Civilization would have amplified our destructive impact by orders of magnitude. However, I now think that extinctions prior to civilization were closer to events that would occur naturally as part of evolution and cohabitation between other species. We can &lt;em&gt;feel&lt;/em&gt; bad about those but they should reveal themselves as neither good or bad. In contract with current extinctions, those represent something closer to a natural outcome to a particular set of circumstances.&lt;/p&gt;
+
+&lt;p&gt;While this new perspective doesn’t really change the idea that we should rewild and reconnect with nature, it does offer us an interesting proposition: we could have a positive place amongst other livings. That process might involve a lot of hardships and it won’t happen quickly but the idea that it could brings me joy here and now.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Negative Optimism</title>
-      <link>http://www.heyitsalex.net/negative-optimism/</link>
+      <link>http://localhost:1313/negative-optimism/</link>
       <pubDate>Tue, 22 Sep 2015 09:00:00 PDT</pubDate>
       
-      <guid>http://www.heyitsalex.net/negative-optimism/</guid>
+      <guid>http://localhost:1313/negative-optimism/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is a snapshot in a continuous exploration of the meaning of life and our place in nature. All thoughts and ideas expressed here are subject to change at any moment.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Ideas evolve and change. Or, at least, they usually do. When I picked up &lt;a href=&#34;http://www.amazon.com/The-Sixth-Extinction-Unnatural-History/dp/0805092994&#34;&gt;The Sixth Extinction&lt;/a&gt;, I had a sense that I might not get much new to advance my current ideas. I was wrong.&lt;/p&gt;
@@ -40,15 +54,17 @@
 &lt;p&gt;So maybe that&amp;rsquo;s it. It might be time to come to peace with the resolution that we screwed up. Come to terms with the idea that &lt;em&gt;we&lt;/em&gt; are the problem. Saying our final good byes before we go the way of the dodo. And know, that maybe, probably, there will still be life after us and that life will be smart enough to not try and get too smart to disturb a fragile and beautiful equilibrium.&lt;/p&gt;
 
 &lt;p&gt;But, of course, this might also be a bump in the road to a brighter, continuously evolving set of thoughts and ideas where we’d be a force for good.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update: Back to &lt;a href=&#34;/positive-optimism&#34;&gt;positive optimism&lt;/a&gt; with new information after digging into pre-history. Read the &lt;a href=&#34;/positive-optimism&#34;&gt;next post&lt;/a&gt; for my current thoughts.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Big Illusions</title>
-      <link>http://www.heyitsalex.net/the-big-illusions/</link>
+      <link>http://localhost:1313/the-big-illusions/</link>
       <pubDate>Fri, 02 Jan 2015 10:00:00 -0700</pubDate>
       
-      <guid>http://www.heyitsalex.net/the-big-illusions/</guid>
+      <guid>http://localhost:1313/the-big-illusions/</guid>
       <description>&lt;p&gt;I closed &lt;a href=&#34;http://www.amazon.com/The-Big-Ratchet-Humanity-Thrives/dp/0465044972&#34;&gt;The Big Ratchet&lt;/a&gt; mad with rage. I wasn’t surprised to find myself in disagreement with the author but I did find myself unable to contain my emotions.&lt;/p&gt;
 
 &lt;p&gt;While venting, I realized what frustrated me. The author goes into the history of humanity and its “ingenuity”. She goes on to tell the story of “pivots” in history. Along the way, tragedies happen (indigenous people are exterminated, species disappear and sustainable ways of life are destroyed) but they’re always brushed off very quickly as minor downsides of something that brought a net positive. Each time, she tells us that out of the problems that we introduced, we found solutions that made us better than when we started. And, in every case, I found myself offended that she would say that. In every case, I was thinking to myself that we had just taken a wrong turn that should have prompted us to turn back. Instead, we celebrated an illusion of progress that was bringing us deeper into a path of destruction.&lt;/p&gt;
@@ -78,10 +94,10 @@
     
     <item>
       <title>Uncertainties</title>
-      <link>http://www.heyitsalex.net/uncertainties/</link>
+      <link>http://localhost:1313/uncertainties/</link>
       <pubDate>Sun, 02 Nov 2014 09:14:00 -0700</pubDate>
       
-      <guid>http://www.heyitsalex.net/uncertainties/</guid>
+      <guid>http://localhost:1313/uncertainties/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“I know that I know nothing.”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -113,10 +129,10 @@
     
     <item>
       <title>Doing Beats Talking, Most of the Time</title>
-      <link>http://www.heyitsalex.net/doing-beats-talking-most-of-the-time/</link>
+      <link>http://localhost:1313/doing-beats-talking-most-of-the-time/</link>
       <pubDate>Sat, 27 Jul 2013 10:53:03 PDT</pubDate>
       
-      <guid>http://www.heyitsalex.net/doing-beats-talking-most-of-the-time/</guid>
+      <guid>http://localhost:1313/doing-beats-talking-most-of-the-time/</guid>
       <description>&lt;p&gt;It has been a while since I last posted. I have no excuses; I simply have a good reason.&lt;/p&gt;
 
 &lt;p&gt;I was &lt;em&gt;too busy&lt;/em&gt;.&lt;/p&gt;
@@ -153,10 +169,10 @@
     
     <item>
       <title>Juxtapose</title>
-      <link>http://www.heyitsalex.net/juxtapose/</link>
+      <link>http://localhost:1313/juxtapose/</link>
       <pubDate>Thu, 28 Feb 2013 05:58:53 &#43;0000</pubDate>
       
-      <guid>http://www.heyitsalex.net/juxtapose/</guid>
+      <guid>http://localhost:1313/juxtapose/</guid>
       <description>&lt;p&gt;A few weeks ago, I came across some stunning &lt;a href=&#34;http://imgur.com/a/wxBBm#0&#34;&gt;compositing work&lt;/a&gt; from &lt;a href=&#34;http://realcalvinandhobbes.tumblr.com/&#34;&gt;Michael Den Beste&lt;/a&gt;. The project juxtaposes drawings of &lt;a href=&#34;http://en.wikipedia.org/wiki/Calvin_and_Hobbes&#34;&gt;Calvin and Hobbes&lt;/a&gt; with fitting nature photographs.&lt;/p&gt;
 
 &lt;p&gt;By themselves, the photos would be pretty good albeit lacking a distinguishing element. With Calvin and Hobbes, the scene comes alive. The drawings bring a touch of imagination in an otherwise very real scene. I felt as if the world was being filled with mystical creatures from storybooks. It&amp;rsquo;s breaking the monotony of a thousand pretty pictures while celebrating of the beauty of nature.&lt;/p&gt;
@@ -200,10 +216,10 @@
     
     <item>
       <title>Love Letter to Github</title>
-      <link>http://www.heyitsalex.net/love-letter-to-github/</link>
+      <link>http://localhost:1313/love-letter-to-github/</link>
       <pubDate>Mon, 17 Dec 2012 06:07:09 &#43;0000</pubDate>
       
-      <guid>http://www.heyitsalex.net/love-letter-to-github/</guid>
+      <guid>http://localhost:1313/love-letter-to-github/</guid>
       <description>&lt;figure class=&#34;medium&#34;&gt;
     
         &lt;img src=&#34;http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/12/Octocalex-2012-12-16-07.49.31-168-PM1.png&#34;  /&gt;
@@ -272,10 +288,10 @@
     
     <item>
       <title>How Rdio Stole all the Music and Gave it to All of Us </title>
-      <link>http://www.heyitsalex.net/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</link>
+      <link>http://localhost:1313/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</link>
       <pubDate>Mon, 05 Nov 2012 05:04:52 &#43;0000</pubDate>
       
-      <guid>http://www.heyitsalex.net/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</guid>
+      <guid>http://localhost:1313/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</guid>
       <description>&lt;figure class=&#34;full&#34;&gt;
     
         &lt;img src=&#34;http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/10/DSC_1031-1024x682.jpg&#34;  /&gt;
@@ -320,10 +336,10 @@
     
     <item>
       <title>I Still Remember, Even After 6 Months</title>
-      <link>http://www.heyitsalex.net/i-still-remember-even-after-6-months/</link>
+      <link>http://localhost:1313/i-still-remember-even-after-6-months/</link>
       <pubDate>Thu, 25 Oct 2012 05:45:32 &#43;0000</pubDate>
       
-      <guid>http://www.heyitsalex.net/i-still-remember-even-after-6-months/</guid>
+      <guid>http://localhost:1313/i-still-remember-even-after-6-months/</guid>
       <description>&lt;figure class=&#34;full&#34;&gt;
     
         &lt;img src=&#34;http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/10/JeMeSouviensVersion2Landscape-1024x522.jpg&#34;  /&gt;
@@ -374,10 +390,10 @@
     
     <item>
       <title>New Light on that Blue</title>
-      <link>http://www.heyitsalex.net/new-light-on-that-blue/</link>
+      <link>http://localhost:1313/new-light-on-that-blue/</link>
       <pubDate>Thu, 30 Aug 2012 10:00:21 &#43;0000</pubDate>
       
-      <guid>http://www.heyitsalex.net/new-light-on-that-blue/</guid>
+      <guid>http://localhost:1313/new-light-on-that-blue/</guid>
       <description>&lt;p&gt;&lt;em&gt;What follows is my take on &lt;a href=&#34;http://heyitsalex.net/what-can-happen-in-a-second/&#34;&gt;another&lt;/a&gt; prompt from &lt;a href=&#34;http://www.amazon.com/Things-Journal-Francisco-Writers-Grotto/dp/1452105448&#34;&gt;642 Things to Write About&lt;/a&gt;. It&amp;rsquo;s pretty personal, borderline personal diary. Yeah.
 Since this blog is my miscellaneous bucket and I&amp;rsquo;m the editor, I say it&amp;rsquo;s &lt;strong&gt;in&lt;/strong&gt;. Let&amp;rsquo;s ship it. Then, see how it feels.
 Do not worry, I&amp;rsquo;m not planning on making regular posts about my feelings, probably.&lt;/em&gt;&lt;/p&gt;
@@ -439,10 +455,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>What Can Happen in a Second?</title>
-      <link>http://www.heyitsalex.net/what-can-happen-in-a-second/</link>
+      <link>http://localhost:1313/what-can-happen-in-a-second/</link>
       <pubDate>Thu, 09 Aug 2012 00:00:00 UTC</pubDate>
       
-      <guid>http://www.heyitsalex.net/what-can-happen-in-a-second/</guid>
+      <guid>http://localhost:1313/what-can-happen-in-a-second/</guid>
       <description>&lt;p&gt;&lt;em&gt;I stumbled upon a book last weekend that caught my attention. It&amp;rsquo;s called &lt;a href=&#34;http://www.amazon.com/Things-Journal-Francisco-Writers-Grotto/dp/1452105448&#34;&gt;642 Things to Write About&lt;/a&gt;. It contains 642 prompts for things to write about. Simple. With a clearly defined scope, creativity flourishes. If you know me, you know how I like this sort of thing.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This post is my take on the first prompt of the book: What Can Happen in a Second? I just wrote without thinking too much about it.&lt;/em&gt;&lt;/p&gt;
@@ -489,10 +505,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>The Tourist Photographer&#39;s Dilemma</title>
-      <link>http://www.heyitsalex.net/the-tourist-photographers-dilemma/</link>
+      <link>http://localhost:1313/the-tourist-photographers-dilemma/</link>
       <pubDate>Fri, 27 Jul 2012 04:30:35 &#43;0000</pubDate>
       
-      <guid>http://www.heyitsalex.net/the-tourist-photographers-dilemma/</guid>
+      <guid>http://localhost:1313/the-tourist-photographers-dilemma/</guid>
       <description>&lt;p&gt;I wholeheartedly loathe tourist photos. I really do. I get angry just thinking about it. I really really hate this. Let me go outside and throw some rocks on a concrete wall.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -561,10 +577,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>The Ultimate Guide to Almost Everything [or Nothing]</title>
-      <link>http://www.heyitsalex.net/the-ultimate-guide-to-almost-everything-or-nothing/</link>
+      <link>http://localhost:1313/the-ultimate-guide-to-almost-everything-or-nothing/</link>
       <pubDate>Wed, 27 Jun 2012 05:05:49 &#43;0000</pubDate>
       
-      <guid>http://www.heyitsalex.net/the-ultimate-guide-to-almost-everything-or-nothing/</guid>
+      <guid>http://localhost:1313/the-ultimate-guide-to-almost-everything-or-nothing/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Update: After finishing and reading this post (ok, I &lt;em&gt;skimmed&lt;/em&gt; through it), I updated the title to better reflect its content.&lt;/strong&gt;&lt;/p&gt;
@@ -615,10 +631,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>The San Francisco Guide for Montréalers</title>
-      <link>http://www.heyitsalex.net/the-san-francisco-guide-for-montrealers/</link>
+      <link>http://localhost:1313/the-san-francisco-guide-for-montrealers/</link>
       <pubDate>Thu, 14 Jun 2012 05:00:55 &#43;0000</pubDate>
       
-      <guid>http://www.heyitsalex.net/the-san-francisco-guide-for-montrealers/</guid>
+      <guid>http://localhost:1313/the-san-francisco-guide-for-montrealers/</guid>
       <description>
 
 &lt;p&gt;You dear reader should already know that I&amp;rsquo;m a new San Franciscan and ex-Montréaler. As such, I present you with great authority the definite guide to San Francisco for Montréalers. It&amp;rsquo;s really more of a collection of fairly obvious differences between Montréal and San Francisco. I really rely on my blog getting zero readership to shield me from real potential of offending residents of both cities. It may have been better titled as &amp;ldquo;10 differences between Montréal and San Francisco&amp;rdquo; but I hate those. They most often come in round numbers which I find suspicious. How convenient would it be if there were really 10 differences between the two cities?&lt;/p&gt;
@@ -731,10 +747,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>Hey, it&#39;s a Start</title>
-      <link>http://www.heyitsalex.net/hey-its-a-start/</link>
+      <link>http://localhost:1313/hey-its-a-start/</link>
       <pubDate>Tue, 12 Jun 2012 05:20:03 &#43;0000</pubDate>
       
-      <guid>http://www.heyitsalex.net/hey-its-a-start/</guid>
+      <guid>http://localhost:1313/hey-its-a-start/</guid>
       <description>&lt;p&gt;I may suffer from some condition. Ok well, that&amp;rsquo;s an embarrassing way to start because I really do have a condition as I have type 1 diabetes. But I&amp;rsquo;ve had that since I was a teenager so it&amp;rsquo;s &lt;em&gt;not&lt;/em&gt; was I&amp;rsquo;m referring to here. I was actually thinking of this habit of mine of always having some personal project &lt;a href=&#34;http://dawnofbubbles.com/post/6923528541/creation-as-a-fulltime-dad&#34;&gt;on a schedule&lt;/a&gt; and never letting that go. To the point where I get mad for being so near my self-imposed deadline and being stressed out about not being able to deliver. So much so that it seems like all potential of fun is gone, all fun is sucked out of it and it really is making life a misery for me and all people around me.&lt;/p&gt;
 
 &lt;p&gt;But that happens only once in a while so it&amp;rsquo;s all good. No problem here.&lt;/p&gt;
