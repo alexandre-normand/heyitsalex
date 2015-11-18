@@ -23,4 +23,4 @@ Pick your version:
 
 * [Full size, no quote](http://flickr.com/gp/alexnormand/kQ53in)
 
-{{% fig class="full" src="http://farm4.staticflickr.com/3731/9380273987_eaceb6ea69_h_d.jpg" title="Doing Beats Talking, Right?" link="http://www.flickr.com/photos/alexnormand/9380273987/" %}}
+{{% fig class="full" src="https://farm4.staticflickr.com/3731/9380273987_17b307dd6a_o_d.jpg" title="Doing Beats Talking, Right?" link="http://www.flickr.com/photos/alexnormand/9380273987/" %}}

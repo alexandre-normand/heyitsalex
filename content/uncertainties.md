@@ -23,4 +23,4 @@ The truth is that I'm uncertain what this post is about. But maybe that's what t
 
 And while uncertainties that can be paralyzing, there's one thing I do know and that it's nice things usually happen when you try something different. If nothing more than ruling out an idea while prompting a fresh set of questions and opening up new paths to answers. Here's to finding the next path. 
 
-{{% fig class="full" src="https://gp1.wac.edgecastcdn.net/806614/photos/photos.500px.net/14092047/e2a9583774c8055d202ce0e439e4ab35e32b66dd/4.jpg"  link="https://500px.com/photo/14092047/grass-and-bokeh-yeah-by-alexandre-normand" %}}
+{{% fig class="full" src="https://drscdn.500px.org/photo/14092047/m%3D900/374628c29b6de4a859eb8bcdb6dbf069"  link="https://500px.com/photo/14092047/grass-and-bokeh-yeah-by-alexandre-normand" %}}

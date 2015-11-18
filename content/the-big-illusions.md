@@ -23,4 +23,4 @@ But I am, in theory, in favour for turning back.
 
 I think that the days, week or month of that life that I’d get back living connected to other life might be worth it. I’d hope that my fear of death would carry a lighter weight in the balance next to the possibility of life _with_ the planet rather than as a farmer of its resources. 
 
-{{% fig class="full" src="https://farm6.staticflickr.com/5346/10094389934_ecc70277e4_k_d.jpg"  link="https://www.flickr.com/photos/alexnormand/10094389934/" %}}
+{{% fig class="full" src="https://farm6.staticflickr.com/5346/10094389934_79d4690006_o_d.jpg"  link="https://www.flickr.com/photos/alexnormand/10094389934/" %}}
