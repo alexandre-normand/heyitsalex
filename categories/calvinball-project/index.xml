@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Calvinball-Project on  </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.heyitsalex.net/categories/calvinball-project/index.xml/</link>
-    
-    
-    
-    <updated>Thu, 28 Feb 2013 05:58:53 &#43;0000</updated>
+    <title>Calvinball Project on </title>
+    <link>http://www.heyitsalex.net/categories/calvinball-project/</link>
+    <description>Recent content in Calvinball Project on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Feb 2013 05:58:53 +0000</lastBuildDate>
+    <atom:link href="http://www.heyitsalex.net/categories/calvinball-project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Juxtapose</title>
       <link>http://www.heyitsalex.net/juxtapose/</link>
-      <pubDate>Thu, 28 Feb 2013 05:58:53 &#43;0000</pubDate>
+      <pubDate>Thu, 28 Feb 2013 05:58:53 +0000</pubDate>
       
       <guid>http://www.heyitsalex.net/juxtapose/</guid>
       <description>&lt;p&gt;A few weeks ago, I came across some stunning &lt;a href=&#34;http://imgur.com/a/wxBBm#0&#34;&gt;compositing work&lt;/a&gt; from &lt;a href=&#34;http://realcalvinandhobbes.tumblr.com/&#34;&gt;Michael Den Beste&lt;/a&gt;. The project juxtaposes drawings of &lt;a href=&#34;http://en.wikipedia.org/wiki/Calvin_and_Hobbes&#34;&gt;Calvin and Hobbes&lt;/a&gt; with fitting nature photographs.&lt;/p&gt;
@@ -20,6 +19,7 @@
 &lt;p&gt;By themselves, the photos would be pretty good albeit lacking a distinguishing element. With Calvin and Hobbes, the scene comes alive. The drawings bring a touch of imagination in an otherwise very real scene. I felt as if the world was being filled with mystical creatures from storybooks. It&amp;rsquo;s breaking the monotony of a thousand pretty pictures while celebrating of the beauty of nature.&lt;/p&gt;
 
 &lt;p&gt;You can tell I felt inspired by that work. I also happen to take random unpublished pictures suited for such compositing work: &lt;em&gt;wallpaper-nice&lt;/em&gt; caliber but nothing crazy unique. I also happen to draw things. Or, I try to. Here is my first attempt at this type of composite art. It&amp;rsquo;s an old pouring rain picture that I augmented with my drawing of a snail. I have much better photos in reserve for this type of work but this one seemed to be fitting with my character so I&amp;rsquo;m going with that. Uncharacteristically for me, this won&amp;rsquo;t be a scheduled project. But, I&amp;rsquo;ll make more.&lt;/p&gt;
+
 
 &lt;figure class=&#34;full&#34;&gt;
     
@@ -32,6 +32,7 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
+
 
 &lt;div class=&#34;techdetails&#34;&gt;
 &lt;p&gt;Technical details:&lt;/p&gt;

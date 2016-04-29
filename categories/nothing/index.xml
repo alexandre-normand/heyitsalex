@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Nothing on  </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.heyitsalex.net/categories/nothing/index.xml/</link>
-    
-    
-    
-    <updated>Mon, 17 Dec 2012 06:07:09 &#43;0000</updated>
+    <title>Nothing on </title>
+    <link>http://www.heyitsalex.net/categories/nothing/</link>
+    <description>Recent content in Nothing on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Dec 2012 06:07:09 +0000</lastBuildDate>
+    <atom:link href="http://www.heyitsalex.net/categories/nothing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Love Letter to Github</title>
       <link>http://www.heyitsalex.net/love-letter-to-github/</link>
-      <pubDate>Mon, 17 Dec 2012 06:07:09 &#43;0000</pubDate>
+      <pubDate>Mon, 17 Dec 2012 06:07:09 +0000</pubDate>
       
       <guid>http://www.heyitsalex.net/love-letter-to-github/</guid>
-      <description>&lt;figure class=&#34;medium&#34;&gt;
+      <description>
+&lt;figure class=&#34;medium&#34;&gt;
     
         &lt;img src=&#34;http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/12/Octocalex-2012-12-16-07.49.31-168-PM1.png&#34;  /&gt;
     
@@ -26,6 +26,7 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
+
 
 &lt;p&gt;I have one thing I want to say today: I love &lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 
@@ -64,7 +65,7 @@
 
 &lt;li&gt;&lt;p&gt;You do the work. And it&amp;rsquo;s the most fun part. You&amp;rsquo;re excited because this is something that bugged &lt;em&gt;you&lt;/em&gt;. It&amp;rsquo;s something _you_ care about.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Done with the changes? Now it&amp;rsquo;s pull requesta extravaganza! This is when you get to show off the interesting work you&amp;rsquo;ve cared so much about. Also, because it&amp;rsquo;s cool to work with people excited about your project, interesting discussions follow. Meeting new folks. You know, &lt;em&gt;talking_ (or, more accurately, _typing&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Done with the changes? Now it&amp;rsquo;s pull requesta extravaganza! This is when you get to show off the interesting work you&amp;rsquo;ve cared so much about. Also, because it&amp;rsquo;s cool to work with people excited about your project, interesting discussions follow. Meeting new folks. You know, _talking_ (or, more accurately, &lt;em&gt;typing&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;I&amp;rsquo;m just describing one scenario here but let&amp;rsquo;s say everything is right and your changes were merged into the upstream repo. Doesn&amp;rsquo;t this feel &lt;em&gt;great&lt;/em&gt;? It&amp;rsquo;s almost silly but I just feel like a little boy and I want to show mommy how proud I am of the thing I just did. Even for a one line change. I&amp;rsquo;d like to show the whole world about this thing I just did. Please refrain though. People will run away screaming if you do this too often. And maybe even the first time you do it. So, please, don&amp;rsquo;t!&lt;/p&gt;&lt;/li&gt;
 
@@ -84,10 +85,11 @@
     <item>
       <title>How Rdio Stole all the Music and Gave it to All of Us </title>
       <link>http://www.heyitsalex.net/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</link>
-      <pubDate>Mon, 05 Nov 2012 05:04:52 &#43;0000</pubDate>
+      <pubDate>Mon, 05 Nov 2012 05:04:52 +0000</pubDate>
       
       <guid>http://www.heyitsalex.net/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</guid>
-      <description>&lt;figure class=&#34;full&#34;&gt;
+      <description>
+&lt;figure class=&#34;full&#34;&gt;
     
         &lt;img src=&#34;http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/10/DSC_1031-1024x682.jpg&#34;  /&gt;
     
@@ -98,6 +100,7 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
+
 
 &lt;blockquote&gt;
 &lt;p&gt;“We&amp;rsquo;ve got all you music. Surrender a fee and it&amp;rsquo;s yours.”&lt;/p&gt;
@@ -132,10 +135,11 @@
     <item>
       <title>I Still Remember, Even After 6 Months</title>
       <link>http://www.heyitsalex.net/i-still-remember-even-after-6-months/</link>
-      <pubDate>Thu, 25 Oct 2012 05:45:32 &#43;0000</pubDate>
+      <pubDate>Thu, 25 Oct 2012 05:45:32 +0000</pubDate>
       
       <guid>http://www.heyitsalex.net/i-still-remember-even-after-6-months/</guid>
-      <description>&lt;figure class=&#34;full&#34;&gt;
+      <description>
+&lt;figure class=&#34;full&#34;&gt;
     
         &lt;img src=&#34;http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/10/JeMeSouviensVersion2Landscape-1024x522.jpg&#34;  /&gt;
     
@@ -147,6 +151,7 @@
     
 &lt;/figure&gt;
 
+
 &lt;p&gt;&lt;em&gt;Update: the initial version was way too purple on print. It did look fine on my iPhone screen but the print was definitely not blue, especially when under indoor lights. The guys at gelaskin were kind enough to give me another one for free that I could do with an updated version of the image. This is what you&amp;rsquo;re seeing here. I changed the blue to something that I felt was a safer bet (and better looking to). They looked at it before shipping and they did confirm it looked blue&amp;hellip;for real this time.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s a well-known fact that lack of sunlight affects mood. I know this to be true but it&amp;rsquo;s easy to tell ourselves we&amp;rsquo;re just too strong to feel the influence of something so out of our control as this distant sun.&lt;/p&gt;
@@ -155,7 +160,7 @@
 
 &lt;p&gt;Then, there&amp;rsquo;s September. People say the fog magically leaves by September. Well, it&amp;rsquo;s a big lie. I&amp;rsquo;ve seen some of the thickest fog this September and we barely had any sun. I can&amp;rsquo;t say for sure if it&amp;rsquo;s an anomaly but if someone tells you September is never foggy here, it&amp;rsquo;s a blatant lie. This year was the proof (oh, isn&amp;rsquo;t fun to prove a proposition by a single contradiction?).&lt;/p&gt;
 
-&lt;p&gt;Then came October. And now, oh boy, did October deliver. It was great. Not &lt;em&gt;too _hot but _just&lt;/em&gt; right (except for that one time where it was &lt;em&gt;way&lt;/em&gt; too hot but that lasted like just one second). Along with the first days of October came the sun and it felt great. You might be like me and love seeing nature&amp;rsquo;s force in action (snowstorms, pouring rain, thunder, thick fog) but we need the sun. I didn&amp;rsquo;t think so much before but I do now.&lt;/p&gt;
+&lt;p&gt;Then came October. And now, oh boy, did October deliver. It was great. Not _too _hot but &lt;em&gt;just&lt;/em&gt; right (except for that one time where it was &lt;em&gt;way&lt;/em&gt; too hot but that lasted like just one second). Along with the first days of October came the sun and it felt great. You might be like me and love seeing nature&amp;rsquo;s force in action (snowstorms, pouring rain, thunder, thick fog) but we need the sun. I didn&amp;rsquo;t think so much before but I do now.&lt;/p&gt;
 
 &lt;p&gt;Then, I remember Montreal. I know, it&amp;rsquo;s been only 6 months or so since we left. You know how it is though. As you leave a place, you start feeling the ties more strongly.&lt;/p&gt;
 
@@ -164,6 +169,7 @@
 &lt;p&gt;Oh, you can&amp;rsquo;t? Well, I made my own gelaskin. My Quebec flag gelaskin. I&amp;rsquo;m not sure I would actually use it if I were still living in Quebec but here? I like the idea. I know I&amp;rsquo;ve said in the past that cases and screen protectors are &lt;strong&gt;bad&lt;/strong&gt; but I&amp;rsquo;m making a compromise here. A gelaskin isn&amp;rsquo;t actually a case: it should not add much perceptible thickness to my phone and it&amp;rsquo;s not covering any of the screen.&lt;/p&gt;
 
 &lt;p&gt;Like it? Feel free to use &lt;a href=&#34;http://heyitsalex.net/wp-content/uploads/2012/10/JeMeSouviensVersion2.jpg&#34;&gt;it&lt;/a&gt; to make your own. Or just try it to see how it looks using &lt;a href=&#34;http://www.gelaskins.com/create&#34;&gt;gelaskin&amp;rsquo;s custom skin creator&lt;/a&gt;.&lt;/p&gt;
+
 
 &lt;figure class=&#34;full&#34;&gt;
     
@@ -177,6 +183,7 @@
     
 &lt;/figure&gt;
 
+
 &lt;p&gt;San Francisco is not Montreal. Talking specifically about weather (yep, this has been my great weather post!), we won&amp;rsquo;t get the great snowstorms of Montreal&amp;rsquo;s winter. That doesn&amp;rsquo;t mean it&amp;rsquo;s always the same though. It might seem like it is sometimes. Monday, Tuesday, Wednesday: same forecast.&lt;/p&gt;
 
 &lt;p&gt;Then one day, it&amp;rsquo;s different. One day, there&amp;rsquo;s that pouring rain threatening a Giants game or that thicker fog that completely erases the view. And sometimes, there&amp;rsquo;s the sun and it&amp;rsquo;s rays shinning on through the leaves, bouncing off windows to come and tickle our senses.&lt;/p&gt;
@@ -186,7 +193,7 @@
     <item>
       <title>The Ultimate Guide to Almost Everything [or Nothing]</title>
       <link>http://www.heyitsalex.net/the-ultimate-guide-to-almost-everything-or-nothing/</link>
-      <pubDate>Wed, 27 Jun 2012 05:05:49 &#43;0000</pubDate>
+      <pubDate>Wed, 27 Jun 2012 05:05:49 +0000</pubDate>
       
       <guid>http://www.heyitsalex.net/the-ultimate-guide-to-almost-everything-or-nothing/</guid>
       <description>
@@ -203,7 +210,8 @@
 
 &lt;p&gt;What I&amp;rsquo;ve come to believe is that the key to doing great work consistently lies in two elementary rules:&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;1. &lt;a href=&#34;http://lifehacker.com/281626/jerry-seinfelds-productivity-secret&#34;&gt;The Seinfeld Chain&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;1-the-seinfeld-chain-http-lifehacker-com-281626-jerry-seinfelds-productivity-secret&#34;&gt;1. &lt;a href=&#34;http://lifehacker.com/281626/jerry-seinfelds-productivity-secret&#34;&gt;The Seinfeld Chain&lt;/a&gt;&lt;/h2&gt;
+
 
 &lt;figure class=&#34;full&#34;&gt;
     
@@ -217,11 +225,12 @@
     
 &lt;/figure&gt;
 
+
 &lt;p&gt;It doesn&amp;rsquo;t have to be daily but you should have a schedule with outputs and you should stick to it. Of course, if you&amp;rsquo;re just a slacker constantly putting off tasks, that won&amp;rsquo;t help. You might get some things done once in a while but your chain will look like a bunch of stupid rings. You will look at this and think back at this &lt;a href=&#34;http://lifehacker.com/281626/jerry-seinfelds-productivity-secret&#34;&gt;Seinfeld chain&lt;/a&gt; and since your efforts are so pathetic, you&amp;rsquo;ll just give up and never get anything done.&lt;/p&gt;
 
 &lt;p&gt;Ok, now that we got rid of the self conscious slackers, let&amp;rsquo;s get to the second point&amp;hellip;&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;2. Don&amp;rsquo;t overwork. Do work and celebrate&lt;/h2&gt;
+&lt;h2 id=&#34;2-don-t-overwork-do-work-and-celebrate&#34;&gt;2. Don&amp;rsquo;t overwork. Do work and celebrate&lt;/h2&gt;
 
 &lt;p&gt;This is pretty intuitive really. You get some good work done and you enjoy the satisfaction. That&amp;rsquo;s it. When you do that, you&amp;rsquo;ve got something to be proud of and something to look forward to for next time. Now, you rest or just do something else. If you&amp;rsquo;re reading this, you&amp;rsquo;re currently in leisure mode so get ready and go back to work (but finish reading first).&lt;/p&gt;
 
@@ -240,7 +249,7 @@
     <item>
       <title>The San Francisco Guide for Montréalers</title>
       <link>http://www.heyitsalex.net/the-san-francisco-guide-for-montrealers/</link>
-      <pubDate>Thu, 14 Jun 2012 05:00:55 &#43;0000</pubDate>
+      <pubDate>Thu, 14 Jun 2012 05:00:55 +0000</pubDate>
       
       <guid>http://www.heyitsalex.net/the-san-francisco-guide-for-montrealers/</guid>
       <description>
@@ -249,13 +258,13 @@
 
 &lt;p&gt;Considering this, I&amp;rsquo;m not even counting how many I&amp;rsquo;m listing here. I&amp;rsquo;ll leave that to you and I might just trick you and update this list (hey, this could be a living document). The following represent my opinions but I believe it&amp;rsquo;s fair to say most with the same background as me would agree.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;STM Kicks Ass and Muni not so Much&lt;/h2&gt;
+&lt;h2 id=&#34;stm-kicks-ass-and-muni-not-so-much&#34;&gt;STM Kicks Ass and Muni not so Much&lt;/h2&gt;
 
 &lt;p&gt;You don&amp;rsquo;t know what you have until you lose it, right? Actually, I knew the &lt;a href=&#34;http://www.examiner.com/article/stm-wins-the-stanley-cup-of-public-transport-for-north-america&#34;&gt;STM was pretty good&lt;/a&gt;. But after seeing tramways, BART and buses in movies depicting San Francisco, I thought the public transport here would be amazing. It&amp;rsquo;s not really. Muni is cheaper but it&amp;rsquo;s also as slow as it is unreliable. To be fair, it&amp;rsquo;s not entirely a problem of Muni but rather a problem with traffic and lack of speedy ways reserved for buses. Express buses are not really &lt;em&gt;express&lt;/em&gt;. Additionally if you have a positively surprising experience with an express bus one day, Muni will make sure to make it up the next day with the express just flying by your stop with a bus fully packed of people. Yes, leaving you, the hopeful commuter, standing there feeling the chilly wind crushing your hopes of a quick transit and the seed of cynicism growing inside.&lt;/p&gt;
 
 &lt;p&gt;Additionally, there are also little details like no sign whatsoever for Express buses stops on Pine street. There are several express routes stopping here and you don&amp;rsquo;t have any way of telling which will stop where. Apparently it&amp;rsquo;s knowledge that gets passed from &lt;em&gt;generation to generation&lt;/em&gt;. I&amp;rsquo;ve been told it&amp;rsquo;s in somewhat numerical ordering by some wise guy who seemed to have reversed engineered it. Still haven&amp;rsquo;t verified it. I just memorized the address of the building where the 31AX stops (for the record, it&amp;rsquo;s &lt;a href=&#34;https://maps.google.com/maps?q=360+pine+st,+San+francisco&amp;amp;hl=en&amp;amp;ll=37.791558,-122.401353&amp;amp;spn=0.006249,0.013937&amp;amp;sll=37.792069,-122.402002&amp;amp;layer=c&amp;amp;cbp=13,16.36,,0,0.05&amp;amp;cbll=37.791962,-122.40204&amp;amp;gl=us&amp;amp;hnear=360+Pine+St,+San+Francisco,+California+94104&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&amp;amp;panoid=7CHnHdxivs7YOWxItuJU8Q&#34;&gt;360 Pine St&lt;/a&gt;).&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;The SF Bus Drivers All Hate Life, Montréal Drivers Actually Enjoy Driving People&lt;/h2&gt;
+&lt;h2 id=&#34;the-sf-bus-drivers-all-hate-life-montréal-drivers-actually-enjoy-driving-people&#34;&gt;The SF Bus Drivers All Hate Life, Montréal Drivers Actually Enjoy Driving People&lt;/h2&gt;
 
 &lt;p&gt;It&amp;rsquo;s true. You may want to be polite or friendly and salute your driver when you enter or thank him/her when you get off but you&amp;rsquo;ll be surprised to get a smile or even an answer back. STM drivers will generally welcome everyone on board and salute them when they get off. I had drivers recognize me and talk to me just like that (remember, I am not good with people!). I even had one watch for me arriving to the stop from the other side of the street to signal me to wait and not cross foolishly when it wasn&amp;rsquo;t safe as he proceeded to wait for the light change and get me on board.&lt;/p&gt;
 
@@ -263,7 +272,7 @@
 
 &lt;p&gt;All that said, some Montreal drivers (but those are in the minority) aren&amp;rsquo;t that friendly. Also, I said all muni drivers hate life and all living creatures on earth but I rode the 31 one evening and the driver was the nicest, going as far as &lt;em&gt;fist bumping&lt;/em&gt; me as I got off the bus (this made my day, I love this guy).&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;All People You See in SF are not Attractive, Montréal Wins&lt;/h2&gt;
+&lt;h2 id=&#34;all-people-you-see-in-sf-are-not-attractive-montréal-wins&#34;&gt;All People You See in SF are not Attractive, Montréal Wins&lt;/h2&gt;
 
 &lt;p&gt;It&amp;rsquo;s really surprising. I mean, I&amp;rsquo;m married and it&amp;rsquo;s not like I&amp;rsquo;m here looking around but living in the city, you see people everyday. You sort of subconsciously assess the beauty of the population around you, I guess. There&amp;rsquo;s probably someone studying that social behavior but I&amp;rsquo;m just there to tell you that the truth is this: it&amp;rsquo;s very easy to make your way to work and back without seeing someone really good looking. Maybe my sample doesn&amp;rsquo;t accurately reflect the larger population of san Francisco, I mostly see people riding muni (could this explain why muni drivers have those gloomy eyes?) but there&amp;rsquo;s nothing to make me believe that it is the case.&lt;/p&gt;
 
@@ -271,15 +280,15 @@
 
 &lt;p&gt;Just to give you some perspective, the subject was brought up by my wife after I had passed myself the same reflection. It can&amp;rsquo;t be anything but the absolute truth.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_3&#34;&gt;Changes Don&amp;rsquo;t Happen in Montréal (anymore), SF Moves with the Wind&lt;/h2&gt;
+&lt;h2 id=&#34;changes-don-t-happen-in-montréal-anymore-sf-moves-with-the-wind&#34;&gt;Changes Don&amp;rsquo;t Happen in Montréal (anymore), SF Moves with the Wind&lt;/h2&gt;
 
 &lt;p&gt;Even small things never seem to take forever to get done in Montréal. Not like that here. Plans are approved for a soccer stadium in the &lt;a href=&#34;http://www.huffingtonpost.com/2011/12/02/golden-gate-park-soccer-fields_n_1126206.html&#34;&gt;golden gate park&lt;/a&gt; and plans are for construction to start in a few months to be complete by winter next year. Want a bicycle rack? Just &lt;a href=&#34;https://www.sfbike.org/?bikerack&#34;&gt;ask for one&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_4&#34;&gt;Montreal Trees are Tiny Brocolis, SF Ones Are Giant and Majestic&lt;/h2&gt;
+&lt;h2 id=&#34;montreal-trees-are-tiny-brocolis-sf-ones-are-giant-and-majestic&#34;&gt;Montreal Trees are Tiny Brocolis, SF Ones Are Giant and Majestic&lt;/h2&gt;
 
 &lt;p&gt;Just look at the pictures (they&amp;rsquo;re online, sorry I couldn&amp;rsquo;t get some here for your convenience). Montréal has colourful maples leaves in fall, that&amp;rsquo;s all. Love trees? Golden Gate park or presidio park is where the magic happens.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_5&#34;&gt;The Health Care Situation&lt;/h2&gt;
+&lt;h2 id=&#34;the-health-care-situation&#34;&gt;The Health Care Situation&lt;/h2&gt;
 
 &lt;p&gt;Let&amp;rsquo;s do a checklist comparison because we all love those, right?&lt;/p&gt;
 
@@ -315,7 +324,7 @@
 
 &lt;p&gt;This one is too close. I&amp;rsquo;ll call it a draw.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_6&#34;&gt;San Franciscans all Have a Garage and 10 Cars, Montréalers, a bit Less&lt;/h2&gt;
+&lt;h2 id=&#34;san-franciscans-all-have-a-garage-and-10-cars-montréalers-a-bit-less&#34;&gt;San Franciscans all Have a Garage and 10 Cars, Montréalers, a bit Less&lt;/h2&gt;
 
 &lt;p&gt;People kept telling me I would absolutely need a car when I got here. They would tell me again. And insist. And insist again, telling me I could try living without one but I would give up eventually.&lt;/p&gt;
 
@@ -323,7 +332,8 @@
 
 &lt;p&gt;So far, we can pretty much do all we want without one and &lt;a href=&#34;http://zipcar.com&#34;&gt;zipcar&lt;/a&gt; is there for the luxurious trips like communauto was back in Montréal. However, we are definitely more in an even smaller minority here than we were in Montréal. People have driveways and garages. And they use it. Those garages are filled with cars and that&amp;rsquo;s not just for &lt;em&gt;one&lt;/em&gt;. People use their garage and then park another car on the street. It&amp;rsquo;s almost unbelievable.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_7&#34;&gt;Olds Cars are Still Alive&lt;/h2&gt;
+&lt;h2 id=&#34;olds-cars-are-still-alive&#34;&gt;Olds Cars are Still Alive&lt;/h2&gt;
+
 
 &lt;figure class=&#34;full&#34;&gt;
     
@@ -337,17 +347,18 @@
     
 &lt;/figure&gt;
 
+
 &lt;p&gt;I hate cars or at least, I dislike them. I still have my driver&amp;rsquo;s license but I&amp;rsquo;m a happy fellow when I see anything that prevents cars from being on the street. However, I love the retro look of cars for their visual attractiveness and how they stand out. You might have seen some instagrams as a proof of that. I stopped doing those though. Not because I don&amp;rsquo;t see any retro cars anymore, it&amp;rsquo;s just the opposite: old pastel blue painted fords, rusty Beatles, buicks, Cadillacs. They survived in California. They&amp;rsquo;re all over the place along with the newer models. Not in junkyards, they&amp;rsquo;re just there around the corner.&lt;/p&gt;
 
 &lt;p&gt;I was blasé after a month.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_8&#34;&gt;Bicycles are King&lt;/h2&gt;
+&lt;h2 id=&#34;bicycles-are-king&#34;&gt;Bicycles are King&lt;/h2&gt;
 
 &lt;p&gt;Montréal has bixi and bike lanes and flat roads to make it easy for cyclists. SF has steep hills all over and cars are omnipresent. Nonetheless, SF wins the bike culture crown. Those bikes are &lt;em&gt;everywhere&lt;/em&gt;. Buses wait behind, respectfully. When Muni service routes are shutdown for a week, a &lt;a href=&#34;http://www.sfbike.org/?transit&#34;&gt;bike train&lt;/a&gt; route is put in place for commuters. There&amp;rsquo;s the &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Wiggle&#34;&gt;wiggle trail&lt;/a&gt; for people to have a relatively flat route (I wouldn&amp;rsquo;t want to do it any other way). Apparently people have cars (and many) but they also know it&amp;rsquo;s not very wise to drive it during workdays.&lt;/p&gt;
 
 &lt;p&gt;Bikes are king.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_9&#34;&gt;So who Wins?&lt;/h2&gt;
+&lt;h2 id=&#34;so-who-wins&#34;&gt;So who Wins?&lt;/h2&gt;
 
 &lt;p&gt;You could think I regret leaving Montréal and in some ways, I could. Except that I don&amp;rsquo;t really. It&amp;rsquo;s really nice here. And work is great. And there&amp;rsquo;s the ocean, and the golden gate, and all the great tech and the promise of great historical earthquakes. Oh shit shit shit, the earthquakes&amp;hellip;&lt;/p&gt;
 </description>
@@ -356,12 +367,13 @@
     <item>
       <title>Hey, it&#39;s a Start</title>
       <link>http://www.heyitsalex.net/hey-its-a-start/</link>
-      <pubDate>Tue, 12 Jun 2012 05:20:03 &#43;0000</pubDate>
+      <pubDate>Tue, 12 Jun 2012 05:20:03 +0000</pubDate>
       
       <guid>http://www.heyitsalex.net/hey-its-a-start/</guid>
       <description>&lt;p&gt;I may suffer from some condition. Ok well, that&amp;rsquo;s an embarrassing way to start because I really do have a condition as I have type 1 diabetes. But I&amp;rsquo;ve had that since I was a teenager so it&amp;rsquo;s &lt;em&gt;not&lt;/em&gt; was I&amp;rsquo;m referring to here. I was actually thinking of this habit of mine of always having some personal project &lt;a href=&#34;http://dawnofbubbles.com/post/6923528541/creation-as-a-fulltime-dad&#34;&gt;on a schedule&lt;/a&gt; and never letting that go. To the point where I get mad for being so near my self-imposed deadline and being stressed out about not being able to deliver. So much so that it seems like all potential of fun is gone, all fun is sucked out of it and it really is making life a misery for me and all people around me.&lt;/p&gt;
 
 &lt;p&gt;But that happens only once in a while so it&amp;rsquo;s all good. No problem here.&lt;/p&gt;
+
 
 &lt;figure class=&#34;full&#34;&gt;
     
@@ -374,6 +386,7 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
+
 
 &lt;p&gt;In fact, I&amp;rsquo;m really hitching for some new project. You know, something to brag about and put on my software engineer resume in which in no way helps my “career”. I really need this in my life. It guarantees that I have absolutely no time for entertainment while I entertain an adequate amount of sleep deprivation.&lt;/p&gt;
 

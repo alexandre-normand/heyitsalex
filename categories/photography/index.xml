@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Photography on  </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.heyitsalex.net/categories/photography/index.xml/</link>
-    
-    
-    
-    <updated>Fri, 27 Jul 2012 04:30:35 &#43;0000</updated>
+    <title>Photography on </title>
+    <link>http://www.heyitsalex.net/categories/photography/</link>
+    <description>Recent content in Photography on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Jul 2012 04:30:35 +0000</lastBuildDate>
+    <atom:link href="http://www.heyitsalex.net/categories/photography/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Tourist Photographer&#39;s Dilemma</title>
       <link>http://www.heyitsalex.net/the-tourist-photographers-dilemma/</link>
-      <pubDate>Fri, 27 Jul 2012 04:30:35 &#43;0000</pubDate>
+      <pubDate>Fri, 27 Jul 2012 04:30:35 +0000</pubDate>
       
       <guid>http://www.heyitsalex.net/the-tourist-photographers-dilemma/</guid>
       <description>&lt;p&gt;I wholeheartedly loathe tourist photos. I really do. I get angry just thinking about it. I really really hate this. Let me go outside and throw some rocks on a concrete wall.&lt;/p&gt;
@@ -25,6 +24,7 @@
 
 &lt;p&gt;Let me first explain what I think is the problem with tourist photos: they&amp;rsquo;re just too much. It&amp;rsquo;s all inclusive. It has you, your kids, all of your magnificent landmark and it&amp;rsquo;s surroundings. That kind of thing &lt;em&gt;never&lt;/em&gt; works. Cameras should just pretend to be out of battery when faced with such a scene (they can recognizes &lt;em&gt;faces&lt;/em&gt; already so that&amp;rsquo;s possible right?).&lt;/p&gt;
 
+
 &lt;figure class=&#34;full&#34;&gt;
     
         &lt;img src=&#34;http://farm8.staticflickr.com/7423/9349733524_71036a6a7c_h_d.jpg&#34;  /&gt;
@@ -36,6 +36,7 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
+
 
 &lt;p&gt;The reason it doesn&amp;rsquo;t work is simple: a picture that has more than _one_ thing makes that one thing much more difficult to stand out. We all have different tastes and opinions. As such, you might disagree but let&amp;rsquo;s just stop for a minute to look at pictures we like (I&amp;rsquo;ll go do something better while you take a few moments and do it). I think you&amp;rsquo;ll find that those are recurring patterns: shallow depth of field, uncoloured backgrounds, isolated subject, sharp focus. All of them have the same effect: make _one_ single thing stand out. Even ultra wide angles that seem to capture all of the surroundings produce great images when their focus is on making one thing stand out: the perspective.&lt;/p&gt;
 
@@ -50,12 +51,14 @@
 &lt;p&gt;or&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;take the snapshots the best you can with your big camera to take the touristy snapshots with better execution.&lt;/li&gt;
+&lt;li&gt;take the snapshots the best you can with your big camera to take the touristy snapshots with better execution.
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;I&amp;rsquo;m actually not sure we can resolve this to the satisfaction of everyone involved (unless you&amp;rsquo;re a family of photographers) but with a little effort, we can at least make an attempt. Or I tell you how and &lt;em&gt;you_ make the attempt. Just kidding, I&amp;rsquo;m not letting _you&lt;/em&gt; try this alone.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m actually not sure we can resolve this to the satisfaction of everyone involved (unless you&amp;rsquo;re a family of photographers) but with a little effort, we can at least make an attempt. Or I tell you how and _you_ make the attempt. Just kidding, I&amp;rsquo;m not letting &lt;em&gt;you&lt;/em&gt; try this alone.&lt;/p&gt;
 
 &lt;p&gt;So let&amp;rsquo;s try and make tourist pictures better. First, let&amp;rsquo;s forget about showing off that you &lt;em&gt;were there in front of the golden bridge, omg!!&lt;/em&gt; People are doing it everyday and you can just tweet it, we&amp;rsquo;ll believe it. If we want to see the golden gate, we can google it and find fabulous shots that have been taken a thousand times.&lt;/p&gt;
+
 
 &lt;figure class=&#34;full&#34;&gt;
     &lt;a href=&#34;http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/&#34;&gt;
@@ -68,6 +71,7 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
+
 
 &lt;p&gt;I&amp;rsquo;m not against using a landmark (or part of it) if it makes for a good picture though. A kid holding a coloured umbrella walking out of the fog on the golden gate bridge would be magnificent (I should do that shot before I start to think of the potential challenges involved). Let&amp;rsquo;s just forget about taking pictures of you and ALL of that gigantic scene. Let&amp;rsquo;s focus on isolated things. If you must take a picture with the statue of a president, make it a close up of yourself French kissing it. Want to capture yourself with the beautiful Apple store? Take a close shot of a reflection in it&amp;rsquo;s recognizable glass walls.&lt;/p&gt;
 
