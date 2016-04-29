@@ -8,5 +8,6 @@
        "tag": "tags"
     },
     "baseurl": "http://heyitsalex.net/",
+    "footnotereturnlinkcontents": "↩",
     "canonifyurls": true
 }
