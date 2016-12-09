@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Calvinball Project on </title>
+    <title>Calvinball Project on Hey, it&#39;s Alex!</title>
     <link>http://www.heyitsalex.net/categories/calvinball-project/</link>
-    <description>Recent content in Calvinball Project on </description>
+    <description>Recent content in Calvinball Project on Hey, it&#39;s Alex!</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</copyright>
     <lastBuildDate>Thu, 28 Feb 2013 05:58:53 +0000</lastBuildDate>
     <atom:link href="http://www.heyitsalex.net/categories/calvinball-project/index.xml" rel="self" type="application/rss+xml" />
     

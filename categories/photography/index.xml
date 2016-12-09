@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photography on </title>
+    <title>Photography on Hey, it&#39;s Alex!</title>
     <link>http://www.heyitsalex.net/categories/photography/</link>
-    <description>Recent content in Photography on </description>
+    <description>Recent content in Photography on Hey, it&#39;s Alex!</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</copyright>
     <lastBuildDate>Fri, 27 Jul 2012 04:30:35 +0000</lastBuildDate>
     <atom:link href="http://www.heyitsalex.net/categories/photography/index.xml" rel="self" type="application/rss+xml" />
     
