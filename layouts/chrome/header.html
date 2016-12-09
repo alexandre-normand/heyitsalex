@@ -10,9 +10,10 @@
     <link rel="apple-touch-icon" href="/images/alex-normand.png">
     <link rel="canonical" href="{{ .Permalink }}">
 
-    <!-- atom & rss feed -->
-    <link href="/rss.xml" type="application/atom+xml" rel="alternate" title="{{ .Site.Title }}">    
-
+    {{ if .RSSLink }}
+        <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+        <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ end }}
   </head>
   <body>    
     {{ template "chrome/menu.html" }}
