@@ -1,0 +1,6 @@
+<blockquote class="quote">
+    <p>
+    {{ .Inner }} 
+    </p>
+    {{ with .Get "author" }}<footer>{{.}}</footer>{{ end }}
+</blockquote>

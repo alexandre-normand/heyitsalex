@@ -269,3 +269,44 @@ footer {
     font-size: 22px;
 }
 
+blockquote.quote {
+  background: #f9f9f9;
+  border-left: 20px solid #ccc;
+  margin: 1.5em 10px;
+  padding-top: 0.4em;
+  padding-left: 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  font-size: 2em;
+}
+blockquote.quote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote.quote p {
+  display: inline;
+  font-size: 1em;
+  line-height: 0.9em;
+}
+blockquote.quote footer {
+ color: #7a8383;
+ font-size: 0.5em; 
+ margin-top: -0.1em;
+ margin-left: 20%;
+}
+
+.interlude {
+  margin-left: 3em;
+  margin-right: 1em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(245, 245, 245, 1.0);
+}
