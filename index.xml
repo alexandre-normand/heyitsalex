@@ -7,8 +7,90 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.heyitsalex.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On Coding and Anarchy</title>
+      <link>http://www.heyitsalex.net/on-coding-and-anarchy/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.heyitsalex.net/on-coding-and-anarchy/</guid>
+      <description>
+
+&lt;p&gt;As I start writing this, I’ve just received an email from corporate HR announcing results of a survey that “clearly indicate” that employees feel like the most important thing to improve is &lt;em&gt;career development&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.makeameme.org/created/i-just-threw.jpg&#34; alt=&#34;I just threw up in my mouth a little&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;interlude&#34;&gt;
+    &lt;em&gt;I look through the window to my right and I see a jay landing on the fence a few feet away. The jay doesn&amp;rsquo;t seem terribly concerned about her future development or at least, she doesn&amp;rsquo;t seem to be making plans about them.&lt;/em&gt; 
+&lt;/div&gt;
+
+
+&lt;p&gt;As this happens, I think back how, just a few days ago, I was clumsily requesting from my management to opt-out from being managed. The request came after a long and unstructured reflection culminated by pressure build-up that just had to be released.&lt;/p&gt;
+
+&lt;h2 id=&#34;some-context&#34;&gt;Some Context&lt;/h2&gt;
+
+&lt;p&gt;I write code for a living. Oficially, that makes me a Software Engineer. I’d prefer just saying that I’m a coder. Even better, I want to say I write code for a good chunk of my day but I also do plenty of other things with my life and I’d like to not &lt;em&gt;define&lt;/em&gt; myself as a coder. I draw, I photograph, I write, I make the occasional basket or spoon, I go camping with my kids.&lt;/p&gt;
+
+&lt;div class=&#34;interlude&#34;&gt;
+    &lt;em&gt;A few weeks ago, two squirrels were playing in the backyard trees, or maybe one was courting the other. They were running and jumping from branch to branch, from one tree to the other. Suddenly, one jumped and fell unexpectedly. The other one was obviously taken aback and stood still for a moment, seemingly wondering what to do and if his friend was well. I don&amp;rsquo;t know if the fall was hurtful or not but it really seemed like those squirrels were having a natural good time.&lt;/em&gt; 
+&lt;/div&gt;
+
+
+&lt;p&gt;A few years ago, I was made the tech lead of the team I was on. I didn&amp;rsquo;t like it and said I didn&amp;rsquo;t want to do it. My repulsion came from my allergy to meetings but I also didn’t like the idea of being distracted from what I do best to include tasks that I didn’t think I was terribly good at. In the spirit of making this liveable for me given my feelings of apprehension, I was spared some of the most boring aspects of the job. I still didn’t feel comfortable with the situation. After some time and a pretty dramatic series of events and discussions, I finally got out of being assigned the title of tech lead.&lt;/p&gt;
+
+&lt;p&gt;For the next 2 years, things were better. I had enough reputation to be given the autonomy to decide what I should be working on. I knew what needed to be done and how to do it so I just did. It felt pretty good. However, I still had to deal with discussions about the future of my career or what I should do to get to my next promotion. Every time, I made it clear that I didn’t care about getting promoted. In fact, I requested to &lt;em&gt;not&lt;/em&gt; be considered for a promotion. In doing so, I really wanted to avoid changes in how people saw me and my responsibilities.&lt;/p&gt;
+
+&lt;p&gt;Alas, I recently got asked what’s the next thing I wanted to work on. The motivation wasn’t a bad one. Managers want to help their employees remain satisfied and interested in their work. Talking about their future is one way they think they can achieve that. However, for reasons I won’t get into, I didn’t really want to discuss “big initiatives” and my “future at the company”. Really, I just wanted to live day to day and continue picking up the next piece of work that I thought I could help with.&lt;/p&gt;
+
+&lt;p&gt;Which led me to this request to opt-out of being managed. After trying to just dodge the big questions, I eventually gave up on trying and just asked to skip regularly scheduled one on one manager/employee meetings. I requested specifically to be allowed to do what I’m best at and not be stressed out or pressured to think about bigger career evolution.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-this-means&#34;&gt;What this Means&lt;/h2&gt;
+
+&lt;p&gt;For several years, I had been fighting with everything that represented formal rules/hierarchy/management and was naturally doing work, collaborating with peers and having a good time when feeling free to do so. I still often felt trapped by some processes and even more by the context of my employment but I still had the mild good fortune of being tolerated in this  self-attributed freedom to self-organize. And only after I formulated this request to “opt-out of being managed” did I realize that what I was really longing for was &lt;strong&gt;anarchy&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;To me, anarchy is simply that freedom to self-organize. You might be a lone anarchist but, as I&amp;rsquo;ve described previously, it works really well when collaborating with peers/friends/family/community or even random strangers.&lt;/p&gt;
+
+&lt;p&gt;One of the reasons I didn’t like the label “Software Engineer” is that it seems to be a discipline encompassing many different facets of building software (architecture, design, mentoring, etc). For me, “software engineering” feels like we’re trying to pack-in a career progression and, as a result, a hierarchy. You can only be in charge of &amp;ldquo;architecture&amp;rdquo; if you&amp;rsquo;ve done a few years of being a Senior Software Engineer. While coding involves the same things (design, architecture, teaching peers), it also sounds more action-driven and &lt;em&gt;holistic&lt;/em&gt;. To code something, you have to do those other things as well. However, all of it would be done naturally without as much formality around it. In fact, it might often feel &lt;em&gt;so natural&lt;/em&gt; that is just seems like one big flow of necessary actions. Granted, my interpretation of the words is very subjective but I think that I might not be alone in this interpretation.&lt;/p&gt;
+
+&lt;p&gt;While the definitions of the labels I just mentionned are very subjective and informed by personal experience (rather than literal definitions), I realized at some point that my understanding of &lt;em&gt;coder&lt;/em&gt; (or my definition of it) goes hand in hand with anarchism.&lt;/p&gt;
+
+&lt;h2 id=&#34;anarchy-and-software&#34;&gt;Anarchy and Software&lt;/h2&gt;
+
+&lt;p&gt;Interestingly enough, I have a friend who used coders as an example of natural anarchists: promoting freedom of information, open-source projects with decentralized control, collaboration with peers with no ultimate ownership. At the time, I thought that this was true on some level but I downplayed this based on my experience in the software industry which doesn&amp;rsquo;t, like all industries,  follow the same ideology. Some companies like &lt;a href=&#34;https://github.com&#34;&gt;github&lt;/a&gt; have tried to do this with some success but not always with a lot of intention.&lt;/p&gt;
+
+&lt;p&gt;This makes me think that, if given the chance, anarchism could work really well. Accidental anarchism success stories (like &lt;a href=&#34;https://github.com&#34;&gt;github&lt;/a&gt; seem to exist because groups of people naturally worked this way, it gave great results and it was enjoyable. Of course, pressures from the capitalist market and desire for growth (rather than quality or sustainability) might have resulted in this system falling appart after some time or when reaching a size too big for self-organization. However, it seems telling that this is how a lot of people enjoy and get excited about working this way.&lt;/p&gt;
+
+&lt;h2 id=&#34;labeling-caveats&#34;&gt;Labeling Caveats&lt;/h2&gt;
+
+&lt;p&gt;I’m not a fan of using labels. It creates a division that is often a blocker to empathy. However, I think it can be useful in expressing a set of ideas more quickly to move the conversation to the next level. I also realize that labels can oversimplify those ideas and even erode some of their original meaning which then becomes a recipe for misunderstandings. Additionally, appropriating the label “arnarchist” to describe myself in the context of a capitalist tech industry might be a disservice to real anarchists trying to push real change and I&amp;rsquo;d like to limit my use only to open up a discussion about general anarchy amongst peers who feel like they naturally tend towards this way of working or living.&lt;/p&gt;
+
+&lt;h2 id=&#34;broader-picture&#34;&gt;Broader Picture&lt;/h2&gt;
+
+&lt;p&gt;You might be one of those coders. You might have just realized that you might be an anarchist in the context of how you work. If so, you should consider what this means in other facets of life. It’s easy to compartmentalize and go back to your routine accepting the rules and hierarchy built-in all that surrounds us.&lt;/p&gt;
+
+&lt;p&gt;Maybe stop and ask yourself what this could mean if you were to imagine a different world. Maybe a world where the civilized &amp;ldquo;normality&amp;rdquo; is gone and we&amp;rsquo;re free to live in collaboration with our friends and neighbors.&lt;/p&gt;
+
+&lt;div class=&#34;interlude&#34;&gt;
+    &lt;em&gt;Vireo comes back with a roadkill deer. After making initial cuts to separate the legs, others join in to process the meat, bones, hide, organs. Some of it is set up to dry as jerky while the organs are shared amongst the group and eaten on the spot. Some do cooking while some work on using all of the animal for tools. No one is directing the whole operation. Some is done in silence while some is met with chatter on what would be the most useful option in this situation, for this group of people, at this very moment.&lt;/em&gt; 
+&lt;/div&gt;
+
+
+&lt;p&gt;If you’d like to continue exploring further down that path, you might enjoy reading this somewhat dense but interesting &lt;a href=&#34;https://theanarchistlibrary.org/library/moxie-marlinspike-and-windy-hart-audio-anarchy-radio-an-anarchist-critique-of-democracy&#34;&gt;Anarchist Critique of Democracy&lt;/a&gt;. And then, if you&amp;rsquo;re wondering what a world free of the rules and oppressive system could look like, go read &lt;a href=&#34;https://www.amazon.com/gp/aw/d/0143118072/ref=mp_s_a_1_1?ie=UTF8&amp;amp;qid=1500095661&amp;amp;sr=8-1&amp;amp;pi=AC_SX236_SY340_QL65&amp;amp;keywords=a+paradise+built+in+hell&amp;amp;dpPl=1&amp;amp;dpID=51d-nXEdFYL&amp;amp;ref=plSrch&#34;&gt;A Paradise Built in Hell&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&#34;quote&#34;&gt;
+    &lt;p&gt;
+    &lt;p&gt;If paradise now arises in hell, it’s because in the suspension of the usual order and the failure of most systems, we are free to live and act another way.&lt;/p&gt;
+ 
+    &lt;/p&gt;
+    &lt;footer&gt;Rebecca Solnit, A Paradise Built in Hell&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;I&amp;rsquo;ll see you around the campfire on the other side of the fall.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Beyond Home</title>
