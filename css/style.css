@@ -272,7 +272,10 @@ footer {
 blockquote.quote {
   background: #f9f9f9;
   border-left: 20px solid #ccc;
-  margin: 1.5em 10px;
+  margin-left: 1.5em;
+  margin-right: 10px;
+  margin-top: 1em;
+  margin-bottom: 1em;
   padding-top: 0.4em;
   padding-left: 10px;
   quotes: "\201C""\201D""\2018""\2019";
@@ -309,4 +312,8 @@ blockquote.quote footer {
   padding-bottom: 0.5em;
   color: rgba(0, 0, 0, 0.6);
   background-color: rgba(245, 245, 245, 1.0);
+}
+
+.comments {
+  margin-top: 3em;
 }
