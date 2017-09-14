@@ -26,6 +26,6 @@ I imagine a parallel universe where enough neighbors would walk outside looking 
 
 Today, the mailwoman was back to normal (no bandana). The delivery guys were showing their unobstructed faces again. It’s true that the ashes weren’t falling from the sky like they did the day prior. But the smoke and red sun were still very present. In the background, we could hear the news about hurricanes down in the South. Major events for the news but nothing preventing us to go on with our routines. Was everyone already used to the new normal? 
 
-{{% fig class="full" src="https://farm5.staticflickr.com/4426/36401380603_3d68b12740_o_d.png" %}}
+{{% fig class="full" src="https://farm5.staticflickr.com/4426/36401380603_98516091ab_h_d.jpg" %}}
 
 The temperature of the water just jumped a few degrees and the pace to a boil just increased but it seems like we might just get used to this. Thinking back on the very visual scenes of apocalypse from yesterday, I wonder if we’ve just been in this apocalypse from even before I was born and I just didn’t have any reference to see it. 
