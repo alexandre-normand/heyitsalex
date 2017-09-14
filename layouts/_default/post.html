@@ -1,0 +1,10 @@
+{{ template "chrome/header.html" . }}
+    <!-- CONTENT -->   
+      <h1>{{ .Title }} <span class="date">[{{ .Date.Format "January 2 2006" }}]</span></h1>
+
+       <div class="post content">
+        {{ .Content }}
+       </div>             
+    <!-- END CONTENT -->
+{{ template "chrome/disqus.html" . }}
+{{ template "chrome/footer.html" . }}
