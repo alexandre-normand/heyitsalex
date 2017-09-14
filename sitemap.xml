@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://heyitsalex.net/the-normality-of-apocalypses/</loc>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://heyitsalex.net/on-coding-and-anarchy/</loc>
     <lastmod>2017-07-21T00:00:00+00:00</lastmod>
   </url>
@@ -121,7 +126,7 @@
   
   <url>
     <loc>http://heyitsalex.net/</loc>
-    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
