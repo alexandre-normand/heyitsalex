@@ -15,5 +15,9 @@
     },
     "baseURL": "http://heyitsalex.net/",
     "footnotereturnlinkcontents": "↩",
-    "canonifyurls": true
+    "canonifyurls": true,
+    "outputs": {
+       "home": ["HTML", "JSON", "RSS"],
+       "page": ["HTML"] 
+    } 
 }

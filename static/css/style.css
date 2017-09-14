@@ -317,3 +317,8 @@ blockquote.quote footer {
 .comments {
   margin-top: 3em;
 }
+
+/* Make SVG objects clickable */ 
+object {
+    pointer-events: none;
+}
