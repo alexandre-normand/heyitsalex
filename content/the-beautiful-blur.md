@@ -43,6 +43,8 @@ This experience with observing patiently at a distance and scanning the landscap
 
 A few weeks later, you'd find me watching squirrels eat some acorns in the backyard. They seemed to be more used to close human contact and my little friends didn't mind me taking some pictures. But to get close, I had to just remain there for long enough to be part of the picture they were observing. None of this is new. I've heard about people having sit spot they regularly attend and that's very similar to how I've approached this habit of taking breaks. 
 
+{{% fig class="full" src="https://farm5.staticflickr.com/4505/37256916830_8fc8f6eaaa_o_d.jpg" %}}
+
 Experimenting on fixing myopia might or might not bring me back clear vision. However, I think I can very confidently say this: the process to try to reverse it is bringing me back a sense of observation that I had been lost to me for incredibly long. This rich process is a subset of rewilding but it's also a perfect analogy for how the bigger rewilding can enrich our lives with the unexpected benefits of living through that process. 
 
 Things might be blurry in the transition but that bluriness can be beautiful too. 
