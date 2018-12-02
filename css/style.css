@@ -12,7 +12,7 @@
 /* posts index */
 .post > h3.title {
   position: relative;
-  padding-top: 10px; }
+  margin-top: 10px; }
 
 .post > h3.title span.date {
   position: absolute;
@@ -25,16 +25,15 @@
 
 /* post-full*/
 .post-full {
-   margin-top: 1em;
+    margin-top: 1em;
  }
 
 .post-full .date {
     font-size: 0.45em;
     font-variant: small-caps;
     font-weight: 300;
-    vertical-align: 50%;
+    vertical-align: 20%;
     letter-spacing: -1px;
-    margin-left: -10px;
     color: #666;    
     width: 100px;        
  }
@@ -140,10 +139,15 @@ footer {
  padding-bottom: 1.5em;
 }
 
-.content h1 {
+h1 {
   font-family: 'iA Writer Duospace', 'HelveticaNeue-Light', sans-serif;
   color: #3F3F3F;
-  font-size: 1.5em;  
+  font-size: 1.5em;    
+}
+
+.post-full h1 {
+  margin-left: 3%;
+  margin-top: 0px;
 }
 
 .brand {  
@@ -158,6 +162,7 @@ footer {
   padding-left: 0.3em;
   font-family: 'iA Writer Duospace';   
   font-size: 1.65em;
+  color: #45698B;
 }
 
 .brand h1 b {
@@ -197,9 +202,13 @@ footer {
   margin: 0 auto;
 }
 
+.posts ul {
+  margin-left: 0px;  
+}
+
 .posts li {  
   line-height: 90%;
-  list-style: none;
+  list-style: none;  
 }
 .posts li p {
   margin-bottom: 25px;
@@ -225,7 +234,9 @@ footer {
 }
 
 .post {
-  margin-top: 2em;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2em;  
 }
 
 .techdetails {
@@ -260,8 +271,8 @@ footer {
 .social-links {
     font-family: "Helvetica";
     margin: -40px 0 0 0;
-    padding: 0;
     padding-top: 2px;
+    padding-right: 10px;
     float: right;
   }
 
@@ -336,9 +347,9 @@ body {
 }
 
 ul, ol {
-  padding-top: 1em;
-  padding-bottom: 1em;
-  margin-left: 4em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 2.5em;
 }
 
 li {
@@ -352,4 +363,5 @@ a {
 h2 {
   padding-top: 0.5em;
   line-height: 2em;
+  font-size: 1em;
 }
