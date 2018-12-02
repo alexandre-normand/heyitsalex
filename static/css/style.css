@@ -79,7 +79,7 @@ figure.large img {
 
 figcaption
 {
-    font-family: "Quattrocento Sans", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "iA Writer Duospace", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     background-color: #EFEFEF;    
     font-size: 90%;        
     margin-left: 1%;
@@ -141,13 +141,13 @@ footer {
 }
 
 .content h1 {
-  font-family: 'Lato', 'HelveticaNeue-Light', sans-serif;
+  font-family: 'iA Writer Duospace', 'HelveticaNeue-Light', sans-serif;
   color: #3F3F3F;
-  font-size: 1.7em;  
+  font-size: 1.5em;  
 }
 
 .brand {  
-  background-color: #90B0CC;
+  background-color: #f7f7f7;  
   display: block;  
   max-width: auto;  
   padding-bottom: 1em;
@@ -156,15 +156,19 @@ footer {
 .brand h1 {
   padding-top: 0.3em;
   padding-left: 0.3em;
-  font-family: 'share-regularregular';   
-  font-size: 200%;
+  font-family: 'iA Writer Duospace';   
+  font-size: 1.65em;
+}
+
+.brand h1 b {
+  font-family: 'iA Writer Duospace';   
 }
 
 .brand h2.subtitle {
-  color: #F1FAFF;
+  color: #618bac;
   padding-top: 0.3em;
-  font-family: 'share-regularregular';   
-  font-size: 110%;
+  font-family: 'iA Writer Duospace';   
+  font-size: 0.9em;
   font-style: italic;
   padding-left: 1.4em;
   margin-top: -1em;
@@ -187,10 +191,6 @@ footer {
 
 .brand a:hover {
   color: #5F90BF;
-}
-
-.brand h1 b {
-  font-family: 'share-boldregular';     
 }
 
 .container {  
@@ -229,9 +229,9 @@ footer {
 }
 
 .techdetails {
-  font-family: 'Lato', 'HelveticaNeue-Light', sans-serif;
-  font-size: 90%;
-  line-height: 110%;
+  font-family: 'iA Writer Duospace', 'HelveticaNeue-Light', sans-serif;
+  font-size: 70%;
+  line-height: 120%;
   background-color: #EFEFEF;  
   color: #3F3F3F;  
   margin-left: 25px;
@@ -250,7 +250,7 @@ footer {
   padding:8px;
   background-color:#e6e6e6;
   border-left:1px solid #999;
-  padding-bottom: 2px;
+  padding-bottom: 5px;
 }
 
 .techdetails ul li{
@@ -258,6 +258,7 @@ footer {
 }
 
 .social-links {
+    font-family: "Helvetica";
     margin: -40px 0 0 0;
     padding: 0;
     padding-top: 2px;
@@ -266,7 +267,12 @@ footer {
 
 .social-links li {
     display: inline;
-    font-size: 22px;
+    font-size: 26px;
+}
+
+.ss-svg-icon {
+  height: 26px;
+  width: 26px;
 }
 
 blockquote.quote {
@@ -311,7 +317,7 @@ blockquote.quote footer {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   color: rgba(0, 0, 0, 0.6);
-  background-color: rgba(245, 245, 245, 1.0);
+  background-color: rgba(244, 244, 244, 1.0);
 }
 
 .comments {
@@ -321,4 +327,29 @@ blockquote.quote footer {
 /* Make SVG objects clickable */ 
 object {
     pointer-events: none;
+}
+
+body {
+   background-color: #fcfcfc;
+   font-family: 'iA Writer Duospace', Helvetica, Arial, sans-serif;
+   font-size: 1.2em;
+}
+
+ul, ol {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-left: 4em;
+}
+
+li {
+  line-height: 2.5em;
+}
+
+a {
+  color: #3c7bb8;
+}
+
+h2 {
+  padding-top: 0.5em;
+  line-height: 2em;
 }
