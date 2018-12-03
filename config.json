@@ -13,7 +13,7 @@
        "category": "categories",
        "tag": "tags"
     },
-    "baseURL": "http://heyitsalex.net/",
+    "baseURL": "https://heyitsalex.net/",
     "footnotereturnlinkcontents": "↩",
     "canonifyurls": true,
     "outputs": {
