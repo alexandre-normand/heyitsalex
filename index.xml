@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hey, it&#39;s Alex! on Hey, it&#39;s Alex!</title>
+    <title>Hey, it&#39;s Alex!</title>
     <link>https://heyitsalex.net/</link>
-    <description>Recent content in Hey, it&#39;s Alex! on Hey, it&#39;s Alex!</description>
+    <description>Recent content on Hey, it&#39;s Alex!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</copyright>
