@@ -8,7 +8,7 @@ Uses the pretty cool [Hugo](http://hugo.spf13.com/).
 Regenerating after content addition
 -----------------------------------
 
-```hugo --baseUrl="http://www.heyitsalex.net/" --config=./config.json```
+```hugo --config=./config.json```
 
 Pushing changes
 ---------------
