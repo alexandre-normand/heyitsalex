@@ -49,7 +49,9 @@ Electricity is out and gas lines have been shut off so a few neighbors with BBQs
 When we moved on that block, one older woman came to introduce herself to her. Now she’s there on the sidewalk in front of her place that is completely to the ground. Bernadette recognizes her and goes to hug her. 
 
 “Are you alright?”
+
 She laughs. 
+
 “I didn’t know how I’d get rid of all that stuff but it turned out I didn’t have to do anything.”
 
 Milo is next to Bernadette and the lady sees he has a bit of blood on his forehead. Just a scratch really.
@@ -78,7 +80,7 @@ After all this, the Van is still intact. No debris, no scratch. And Bernadette s
 
 “Do you like VWs?”
 
-After collecting a few things, they wave the neighbors, to now be remembered as dear friends. It feels a little bit like running away cowardly but with no jobs or _things_ getting in the way, now seems a good time for them to act and follow their intuition. 
+After collecting a few things, they wave at the neighbors, to now be remembered as dear friends. It feels a little bit like running away cowardly but with no jobs or _things_ getting in the way, now seems a good time for them to act and follow their intuition. 
 
 And so Beatrix becomes the family driver. It turns out that she knows VWs quite well. And she also knows about wild plants, ways to spot safe resting locations and she instantly becomes good friends and sort of a grandma to the kids. It seems as if my absence and the recollection of my rewinding ambitions have triggered an openness (or even excitement) from the kids to what’s happening and the possibilities in front of them that I had never seen during my living. I guess it's not so surprising and follows a common pattern of recognition after death. 
 
