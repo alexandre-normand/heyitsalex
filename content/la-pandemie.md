@@ -3,7 +3,7 @@ author: alexandre.normand
 comments: true
 date: 2020-10-03
 layout: post
-slug: la-pandémie
+slug: la-pandemie
 title: La Pandémie
 description: La Pandémie, Une Histoire Hors Série du Petit Nicolas
 ---
