@@ -26,7 +26,7 @@ Lundi matin, j’ai voulu commencer mes leçons mais, j’avais un peu soif alor
 
 J’ai pas trop compris pourquoi il était fâché mais, j’ai pas posé de questions puisque j’avais bien envie de sortir et laisser les leçons moi. Alors j’ai dit “oui, papa”. Et parce que je suis un bon garçon, j’ai pris mon masque de plongée que maman dit qu’elle a achetée pour rien et je suis sorti.
 
-Dehors, c’était drôlement tranquille alors j’ai pensé me promener un peu dans le quartier pour voir s’il y avait des copains. Le premier que j’ai rencontré, c’est mon copain Alceste. Alceste, c’est un bon copain qui est un peu gros et qui aime bien manger. Il avait son masque lui aussi. “C’est ma mère qui l’a fabriqué avec un vieux tablier parce qu’on en a plein à la maison”. Mais Alceste, il le portait pas son masque. Il le laissait pendre dans son coup parce qu’il était en train de manger son croissant et, avec le masque, ça marchait pas trop bien. 
+Dehors, c’était drôlement tranquille alors j’ai pensé me promener un peu dans le quartier pour voir s’il y avait des copains. Le premier que j’ai rencontré, c’est mon copain Alceste. Alceste, c’est un bon copain qui est un peu gros et qui aime bien manger. Il avait son masque lui aussi. “C’est ma mère qui l’a fabriqué avec un vieux tablier parce qu’on en a plein à la maison”. Mais Alceste, il le portait pas son masque. Il le laissait pendre dans son cou parce qu’il était en train de manger son croissant et, avec le masque, ça marchait pas trop bien. 
 
 Pendant qu’Alceste mangeait son croissant avant de commencer sa tartine, Eudes, Clotaire, Rufus et Joachim sont arrivés. 
 
