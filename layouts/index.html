@@ -9,8 +9,9 @@
     <link rel="apple-touch-icon" href="/images/alex-normand.png">
     <link rel="canonical" href="{{ .Permalink }}">
 
-    <!-- atom & rss feed -->
-    <link href="/rss.xml" type="application/atom+xml" rel="alternate" title="{{ .Site.Title }}">    
+    {{ range .AlternativeOutputFormats -}}
+       <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+    {{ end -}}
 
   </head>
 
