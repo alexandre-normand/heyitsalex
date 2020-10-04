@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://heyitsalex.net/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heyitsalex.net/la-pand%C3%A9mie/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://heyitsalex.net/embracing-the-unthinkable/</loc>
@@ -88,12 +98,27 @@
   </url>
   
   <url>
+    <loc>https://heyitsalex.net/categories/calvinball-project/</loc>
+    <lastmod>2013-02-28T05:58:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heyitsalex.net/categories/</loc>
+    <lastmod>2013-02-28T05:58:53+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://heyitsalex.net/juxtapose/</loc>
     <lastmod>2013-02-28T05:58:53+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://heyitsalex.net/love-letter-to-github/</loc>
+    <lastmod>2012-12-17T06:07:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heyitsalex.net/categories/nothing/</loc>
     <lastmod>2012-12-17T06:07:09+00:00</lastmod>
   </url>
   
@@ -113,8 +138,18 @@
   </url>
   
   <url>
+    <loc>https://heyitsalex.net/categories/one-more-thing-to-write-about/</loc>
+    <lastmod>2012-08-30T10:00:21+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://heyitsalex.net/what-can-happen-in-a-second/</loc>
     <lastmod>2012-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heyitsalex.net/categories/photography/</loc>
+    <lastmod>2012-07-27T04:30:35+00:00</lastmod>
   </url>
   
   <url>
@@ -138,44 +173,7 @@
   </url>
   
   <url>
-    <loc>https://heyitsalex.net/categories/calvinball-project/</loc>
-    <lastmod>2013-02-28T05:58:53+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyitsalex.net/categories/</loc>
-    <lastmod>2013-02-28T05:58:53+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyitsalex.net/</loc>
-    <lastmod>2019-01-26T10:14:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyitsalex.net/categories/nothing/</loc>
-    <lastmod>2012-12-17T06:07:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyitsalex.net/categories/one-more-thing-to-write-about/</loc>
-    <lastmod>2012-08-30T10:00:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heyitsalex.net/categories/photography/</loc>
-    <lastmod>2012-07-27T04:30:35+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://heyitsalex.net/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

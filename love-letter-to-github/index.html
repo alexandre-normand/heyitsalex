@@ -28,8 +28,6 @@
     <link rel="apple-touch-icon" href="https://heyitsalex.net/images/alex-normand.png">
     <link rel="canonical" href="https://heyitsalex.net/love-letter-to-github/">
 
-    
-    
     <link href="https://heyitsalex.net/index.json" rel="alternate" type="application/json" title="Hey, it&#39;s Alex!" />
     <link href="https://heyitsalex.net/index.json" rel="feed" type="application/json" title="Hey, it&#39;s Alex!" />
   </head>
@@ -61,6 +59,8 @@
 
        <div class="post content">
         
+
+
 <figure class="medium">
     
         <img src="http://alexandrenormand.users.sonic.net/heyitsalex.net/wp-content/uploads/2012/12/Octocalex-2012-12-16-07.49.31-168-PM1.png"  />
@@ -75,55 +75,48 @@
 
 
 <p>I have one thing I want to say today: I love <a href="https://github.com/">Github</a>.</p>
-
-<p>Since this would just barely be worthy of a tiny tweet (and not even a _good_ one), I&rsquo;m going to stretch this as far as I can to get to a blog post length. Just because I feel like blogging today. Yes, that&rsquo;s just how it&rsquo;s going to be.</p>
-
-<p>The past week was really great. Don&rsquo;t you care to know why? Well, fine, I&rsquo;m telling anyway.</p>
-
+<p>Since this would just barely be worthy of a tiny tweet (and not even a <em>good</em> one), I'm going to stretch this as far as I can to get to a blog post length. Just because I feel like blogging today. Yes, that's just how it's going to be.</p>
+<p>The past week was really great. Don't you care to know why? Well, fine, I'm telling anyway.</p>
 <p>It starts with me just trying to get some data on the distribution of the data across regions in hbase. I thought it was something we should be looking at.</p>
-
 <p>Enters <a href="https://github.com/sentric/hannibal">Hannibal</a>.</p>
-
-<p>In a few minutes, I had cloned it, built it and had it running against one of our clusters. The visuals are really good and it definitely increases our ability to quickly see where we&rsquo;re at compared to a text output (which can also be done pretty easily with an hbase shell script).</p>
-
-<p>With this running instance on our data quickly came the realization that we&rsquo;d use this for real. And, like, <em>right now</em>.</p>
-
+<p>In a few minutes, I had cloned it, built it and had it running against one of our clusters. The visuals are really good and it definitely increases our ability to quickly see where we're at compared to a text output (which can also be done pretty easily with an hbase shell script).</p>
+<p>With this running instance on our data quickly came the realization that we'd use this for real. And, like, <em>right now</em>.</p>
 <p>On closer look, I noticed issues with getting compaction logs. Also, I started thinking of some things we might tweak to make it easier to have this deployed and running internally.</p>
-
-<p>I&rsquo;m not going to go into the details of the changes involved. The <strong>process</strong> is really the topic I had in mind when sitting down to write this. Or rather the lack thereof really.</p>
-
-<p>Did you notice? I just lied straight to your face and I knew you wouldn&rsquo;t budge. Actually, there _is_ a process but Github makes it all so easy and fun that it doesn&rsquo;t feel like the drag we so often associate with processes.</p>
-
-<p>Here&rsquo;s how this lays out: You read about this thing or google your way to it. You need this thing and someone already wrote it. It starts here and then&hellip;</p>
-
+<p>I'm not going to go into the details of the changes involved. The <strong>process</strong> is really the topic I had in mind when sitting down to write this. Or rather the lack thereof really.</p>
+<p>Did you notice? I just lied straight to your face and I knew you wouldn't budge. Actually, there <em>is</em> a process but Github makes it all so easy and fun that it doesn't feel like the drag we so often associate with processes.</p>
+<p>Here's how this lays out: You read about this thing or google your way to it. You need this thing and someone already wrote it. It starts here and then&hellip;</p>
 <ol>
-<li><p>Clone, build, run and use the thing.</p></li>
-
-<li><p>There&rsquo;s something missing or that could use some improvement.</p></li>
-
-<li><p>You feel the urge to fix it.</p></li>
+<li>
+<p>Clone, build, run and use the thing.</p>
+</li>
+<li>
+<p>There's something missing or that could use some improvement.</p>
+</li>
+<li>
+<p>You feel the urge to fix it.</p>
+</li>
 </ol>
-
-<p>That&rsquo;s the critical part right there. It&rsquo;s often where things <em>get complicated</em>. You might need to file a ticket first with steps to reproduce. You might need to sell people of that feature you think _should definitely_ be in the scope of the project. You know, it&rsquo;s complicated™. But Github helps. Let&rsquo;s get on with how this goes with it&hellip;</p>
-
-<ol>
-<li><p>You fork it. A one click step.</p></li>
-
-<li><p>You do the work. And it&rsquo;s the most fun part. You&rsquo;re excited because this is something that bugged <em>you</em>. It&rsquo;s something _you_ care about.</p></li>
-
-<li><p>Done with the changes? Now it&rsquo;s pull requesta extravaganza! This is when you get to show off the interesting work you&rsquo;ve cared so much about. Also, because it&rsquo;s cool to work with people excited about your project, interesting discussions follow. Meeting new folks. You know, _talking_ (or, more accurately, <em>typing</em>).</p></li>
-
-<li><p>I&rsquo;m just describing one scenario here but let&rsquo;s say everything is right and your changes were merged into the upstream repo. Doesn&rsquo;t this feel <em>great</em>? It&rsquo;s almost silly but I just feel like a little boy and I want to show mommy how proud I am of the thing I just did. Even for a one line change. I&rsquo;d like to show the whole world about this thing I just did. Please refrain though. People will run away screaming if you do this too often. And maybe even the first time you do it. So, please, don&rsquo;t!</p></li>
-
-<li><p>You just feel like smiling.</p></li>
+<p>That's the critical part right there. It's often where things <em>get complicated</em>. You might need to file a ticket first with steps to reproduce. You might need to sell people of that feature you think <em>should definitely</em> be in the scope of the project. You know, it's complicated™. But Github helps. Let's get on with how this goes with it&hellip;</p>
+<ol start="4">
+<li>
+<p>You fork it. A one click step.</p>
+</li>
+<li>
+<p>You do the work. And it's the most fun part. You're excited because this is something that bugged <em>you</em>. It's something <em>you</em> care about.</p>
+</li>
+<li>
+<p>Done with the changes? Now it's pull requesta extravaganza! This is when you get to show off the interesting work you've cared so much about. Also, because it's cool to work with people excited about your project, interesting discussions follow. Meeting new folks. You know, <em>talking</em> (or, more accurately, <em>typing</em>).</p>
+</li>
+<li>
+<p>I'm just describing one scenario here but let's say everything is right and your changes were merged into the upstream repo. Doesn't this feel <em>great</em>? It's almost silly but I just feel like a little boy and I want to show mommy how proud I am of the thing I just did. Even for a one line change. I'd like to show the whole world about this thing I just did. Please refrain though. People will run away screaming if you do this too often. And maybe even the first time you do it. So, please, don't!</p>
+</li>
+<li>
+<p>You just feel like smiling.</p>
+</li>
 </ol>
-
-<p>To be fair, you can get the same great rewarding feeling from contributing to any open source project even if that&rsquo;s not hosted on <a href="https://github.com/">Github</a>. But the entry barrier is just a little bit higher. It takes more time. Some of that precious and limited energy that you have is spent on the _other_ stuff that, well, isn&rsquo;t as much fun.</p>
-
-<p>Anything to make the process so easy it just seems to <em>not</em> exist is an amazing feat. <a href="https://github.com/">Github</a> really enables tons of changes (okay, I just made that up but I really think it&rsquo;s a good uneducated guess) by just making a path available from discovering a personal need to getting it done. Github is empowering people to fix it <em>immediately</em>. And we all know how momentum is important.</p>
-
-<p>I think I won&rsquo;t shock anyone if I say we wouldn&rsquo;t want to go back to a world without <a href="https://github.com/">Github</a>. More than <a href="http://www.jetbrains.com/">JetBrains</a>, Github really brings the _develop with pleasure_ motto to life.</p>
-
+<p>To be fair, you can get the same great rewarding feeling from contributing to any open source project even if that's not hosted on <a href="https://github.com/">Github</a>. But the entry barrier is just a little bit higher. It takes more time. Some of that precious and limited energy that you have is spent on the <em>other</em> stuff that, well, isn't as much fun.</p>
+<p>Anything to make the process so easy it just seems to <em>not</em> exist is an amazing feat. <a href="https://github.com/">Github</a> really enables tons of changes (okay, I just made that up but I really think it's a good uneducated guess) by just making a path available from discovering a personal need to getting it done. Github is empowering people to fix it <em>immediately</em>. And we all know how momentum is important.</p>
+<p>I think I won't shock anyone if I say we wouldn't want to go back to a world without <a href="https://github.com/">Github</a>. More than <a href="http://www.jetbrains.com/">JetBrains</a>, Github really brings the <em>develop with pleasure</em> motto to life.</p>
 <p>Dear Github, I love you. Never leave me.</p>
 
        </div>             
