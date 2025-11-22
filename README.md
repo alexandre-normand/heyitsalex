@@ -10,6 +10,15 @@ Regenerating after content addition
 
 ```hugo --config=./config.json```
 
+Setup
+---------------
+
+```
+git submodule update --init
+cd public
+git checkout gh-pages
+```
+
 Pushing changes
 ---------------
 
