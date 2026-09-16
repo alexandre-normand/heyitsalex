@@ -30,7 +30,7 @@ Dehors, c’était drôlement tranquille alors j’ai pensé me promener un peu 
 
 Pendant qu’Alceste mangeait son croissant avant de commencer sa tartine, Eudes, Clotaire, Rufus et Joachim sont arrivés. 
 
-{{% fig class="full" src="https://live.staticflickr.com/65535/50414196358_b20457ab84_k_d.jpg" %}}
+{{% fig class="full" src="/images/la-pandemie.jpg" %}}
 
 - Il est trop bête ton masque, il couvre même pas ta bouche, m’a dit Eudes. 
 

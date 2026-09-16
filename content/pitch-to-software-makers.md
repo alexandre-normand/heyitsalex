@@ -17,6 +17,8 @@ What I _can_ say is that AI is haunting my _day_ dreams. I watch the trajectory 
 
 I know, this is bleak. So it might be worth taking a motivational break here and watch some cute kittens playing with yarn. Even better, let’s think and remember that building something doesn’t have to be inherently risky, destructive or deceitful. From a fun snowman we made as kids on the first big snow of the year, knowing very well it would be gone within hours or days, to the Buddhist mandalas with minute details swept away after completion, the process of creation has meaning and value on its own and deserves to be enjoyed and celebrated. 
 
+{{% fig class="full" src="/images/snowman.jpg" %}}
+
 Back from our motivational break, things remain bleak but it’s important to be open and blunt about our problems if we can keep some hope that we can address them.  
 
 ## The Pitch to Software Makers
