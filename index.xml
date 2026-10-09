@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hey, it&#39;s Alex!</title>
-    <link>https://heyitsalex.net/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Hey, it&#39;s Alex!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>A Pitch to Software Makers</title>
-      <link>https://heyitsalex.net/pitch-to-software-makers/</link>
+      <link>http://localhost:1313/pitch-to-software-makers/</link>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/pitch-to-software-makers/</guid>
+      <guid>http://localhost:1313/pitch-to-software-makers/</guid>
       <description>&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;
 &lt;p&gt;I rarely remember my dreams.&lt;/p&gt;
 &lt;p&gt;When I started writing this essay, I was tempted to have the intro be about the rise of AI haunting my sleep. Then felt that it would be deceitful. Maybe there &lt;em&gt;is&lt;/em&gt; truth to AI haunting my sleep but I can’t really make a statement given that, most of the time, I have no recollection.&lt;/p&gt;
@@ -25,7 +25,7 @@
 
 &lt;figure class=&#34;full&#34;&gt;
     
-        &lt;img src=&#34;https://heyitsalex.net/images/snowman.jpg&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/snowman.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -51,17 +51,17 @@
     
     <item>
       <title>The Love of the Craft: A Case for Resisting AI</title>
-      <link>https://heyitsalex.net/the-love-of-the-craft-a-case-for-resisting-ai/</link>
+      <link>http://localhost:1313/the-love-of-the-craft-a-case-for-resisting-ai/</link>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/the-love-of-the-craft-a-case-for-resisting-ai/</guid>
+      <guid>http://localhost:1313/the-love-of-the-craft-a-case-for-resisting-ai/</guid>
       <description>&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;
 &lt;p&gt;I write code for a living and I’ve loved it since the first day. What was the date you ask? Now, come on. I don’t know the &lt;em&gt;exact&lt;/em&gt; date but I remember the origin story.&lt;/p&gt;
 &lt;p&gt;A key plot point is my older brother taking a programming class in high-school. &lt;em&gt;Key in Face to Face or Pennywise playing in the background&lt;/em&gt;. I don’t know how much he enjoyed it but he did keep his course notes clean and, importantly, in a place where I eventually found them. And finding them, I did. At the time, I had a &lt;a href=&#34;https://en.wikipedia.org/wiki/Cyrix_Cx486&#34;&gt;Cyrix 486 CX&lt;/a&gt; PC that I bought from money reselling my own stuff and mowing lawns. It was the best I could buy with the money I had, all of it. It wasn’t great but it was &lt;em&gt;something&lt;/em&gt;. This was in the dial-up days and when Cyrix was making cheap(er) intel processors.&lt;/p&gt;
 &lt;p&gt;While it’s interesting to think about that era with some nostalgia, none of it really matters except maybe that writing software required some effort, energy, curiosity and patience (and all the money a kid could get his hands on). And also, it was also a lot of fun.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heyitsalex.net/images/Nibbles_screenshot.png&#34; alt=&#34;nibbles&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Nibbles_screenshot.png&#34; alt=&#34;nibbles&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When I got my hands on the programming class course notes, I was thirsty for more. It might be a little embarrassing to say now but that course’s curriculum was all about &lt;a href=&#34;https://en.wikipedia.org/wiki/QuickBASIC&#34;&gt;QuickBasic&lt;/a&gt;. So yes, &lt;code&gt;QBasic&lt;/code&gt; was my first programming language. I went through all course notes and exercises and it seemed to just click naturally to me and I enjoyed it a lot. I did all the course’s assignments but that was over quickly. So, naturally, I started thinking of new problems and new cool things to try out. I even started hacking on some games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Nibbles_(video_game)&#34;&gt;Nibbles&lt;/a&gt; and played with the limited graphics capabilities (which wasn’t really part of the course). I always loved drawing but was never great at it. Being able to type code that created pleasing visuals game me a creative outlet for which my hands weren’t naturally gifted for. I carried that sense of wonder and possibilities the next semester when, naturally, I took that class myself.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heyitsalex.net/images/ibm_pc_at.jpg&#34; alt=&#34;IBM PC&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ibm_pc_at.jpg&#34; alt=&#34;IBM PC&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The class took place in a computer lab with some &lt;a href=&#34;https://en.wikipedia.org/wiki/IBM_Personal_Computer_AT&#34;&gt;IBM 286 PCs&lt;/a&gt;.
 Every week, we’d learn something new and then work on assignments. You see, computers weren’t so common that the school could assume we could do that work at home. For most, the new learnings were the ones in the curriculum but, for me, who had already done the class at home the summer prior, learnings were whatever new things I could discover. The best time in those classes were the allocated period to work on those assignments. There’s nothing to brag about since they weren’t new to me but I usually completed those very quickly. Then I’d try to add little fun features or polish. Sometimes I just had another idea that popped up in my head and I went ahead and made it happen. I can’t remember now what those ideas were exactly. I just remember the fun of building my own things. Eventually, the teacher would notice I was working on something cool doing his rounds and would get the other kids to come and see what I had done. That was my first learning to deal with interruptions and develop an appreciation for the focus time. There was zero privacy in the computer lab but, until someone interrupted, it was me, the screen and the keyboard and it was a good time.&lt;/p&gt;
 &lt;p&gt;The rest of the story is more of the same. It wasn’t without struggles, of course. I’d later try to take on too much at once and write my first 3D game, learning win32, DirectX and game development all at once&amp;hellip;and failed. But, I kept going and developed my love for the craft.&lt;/p&gt;
@@ -74,9 +74,9 @@ Every week, we’d learn something new and then work on assignments. You see, co
 &lt;p&gt;When AI comes in as a tool claiming to generate all this “boring” boilerplate code for me, I don’t take it as good news. If AI really does take over doing that work, it’s also taking the most fun part of mine and leaving me with things I enjoy much less.&lt;/p&gt;
 &lt;h2 id=&#34;the-weakening&#34;&gt;The Weakening&lt;/h2&gt;
 &lt;p&gt;You might not agree or find as much pleasure in the craft as I do so that first point might seem weak to you. What might resonate with more is the weakening of muscles that we stop exercising. If AI takes over generating implementations, tests or even writing full apps for me, I’d be losing those muscles. Yes, I know, we can also assume AI will just do it better than I could and decide to go all-in. Have AI do all of it. Let’s not even worry about understanding what AI is producing for us. Maybe we can use the spare energy to build &lt;em&gt;new&lt;/em&gt; muscles and skills and focus on building bigger and better things. The reality, however, might not be as great.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heyitsalex.net/images/Motorola_4050a.jpg&#34; alt=&#34;Motorola Razr&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Motorola_4050a.jpg&#34; alt=&#34;Motorola Razr&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Before I got a cellphone, I could remember my friends’ numbers. Now, I can remember my own number, my mother’s and my wife’s and&amp;hellip;that’s it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heyitsalex.net/images/whatsthat.gif&#34; alt=&#34;What&amp;rsquo;s that?&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/whatsthat.gif&#34; alt=&#34;What&amp;rsquo;s that?&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What’s that?&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Forgotten the numbers from your two deceased friends, have you?&lt;/p&gt;
@@ -85,7 +85,7 @@ Every week, we’d learn something new and then work on assignments. You see, co
 &lt;p&gt;The fact remains that I’ve got a lot more numbers saved in my phone’s contacts that I never even bothered to try and remember. I might not even have &lt;em&gt;read&lt;/em&gt; the numbers once because it’s so easy to create a contact after getting the first call or text from someone. So the muscle that I could have been training to remember numbers is weak. You could speculate that I just made room in that brain of mine to remember other things. Hold on.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Google enters the chat&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Why even bother to remember facts, recipes or stories when we can just look them up on demand by a quick google search? What about training our sense of directions and navigation when we’ve got those on our phones too? Or even why search for interesting content ourselves when we can get an endless stream of recommended content (see see the excellent video titled &lt;a href=&#34;https://www.youtube.com/watch?v=QEJpZjg8GuA&#34;&gt;Algorithms are breaking how we think&lt;/a&gt;)? My point is that when things get easy, we lose the muscles and the satisfaction that comes from doing it the hard(er) way.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heyitsalex.net/images/loseit.gif&#34; alt=&#34;If you don&amp;rsquo;t use it, you lose it&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/loseit.gif&#34; alt=&#34;If you don&amp;rsquo;t use it, you lose it&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;living-with-ourselves&#34;&gt;Living With Ourselves&lt;/h2&gt;
 &lt;p&gt;Spencer Krug, thinker and poet from the Wolf Parade fame (especially if you’re music tastes are anchored in the 2006 indie music scene like mine), wrote a great track titled &lt;a href=&#34;https://song.link/i/1615057883&#34;&gt;How We Have to Live&lt;/a&gt; that I now consider one of his best. Even though I never really bother going deep in song meaning and lyrics analysis, sometimes a line will stick with me. From that track, it’s the chorus that gets me:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -96,7 +96,7 @@ Every week, we’d learn something new and then work on assignments. You see, co
 &lt;p&gt;I &lt;em&gt;could&lt;/em&gt; cite behavioral science experiments but I prefer just asking you to do some introspection and use your intuition instead. I know my own most meaningful and valued experiences and accomplishments were the ones paved with struggles, sweat and effort. We tend to forget the overly safe, comfortable and easy. Behavioral science actually quantifies this by saying that we value the most those things that were &lt;em&gt;hard&lt;/em&gt; and ended in success.&lt;/p&gt;
 &lt;p&gt;What about the value of something that required no effort? Could I live with myself knowing that I encouraged or even contributed to building a world without meaning?&lt;/p&gt;
 &lt;p&gt;For me, this means drawing a hard line at encouraging or using AI tools because I &lt;em&gt;couldn’t live with myself if I did&lt;/em&gt;. I couldn’t live with the possibility, even remote, that I could help create a world that pushes a lot of us into a deep pit of despair.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heyitsalex.net/images/andy-dwyer-andy-parksrec.gif&#34; alt=&#34;Andy&amp;rsquo;s pit of despair&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/andy-dwyer-andy-parksrec.gif&#34; alt=&#34;Andy&amp;rsquo;s pit of despair&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;blindly-we-go&#34;&gt;Blindly We Go?&lt;/h2&gt;
 &lt;p&gt;AI and robotics are following the path we’ve been on for longer than recorded history. And because of it, it’s also the easiest direction to take. We’ve been creating technology to try and improve our lives or fix problems without realizing that the problems of the day came from the technology created to solve last year’s problems. It goes back more than the introduction of social networks and I’ll invite you to read &lt;a href=&#34;https://www.ishmael.org/books/the-book/&#34;&gt;Daniel Quinn’s Ishmael&lt;/a&gt; trilogy for a big awakening.&lt;/p&gt;
 &lt;p&gt;When AI advocates compare generative AI to Photoshop, they are correct in highlighting the similarities. Before assuming that because Photoshop is kind of cool and a net positive, I’d like us to consider that &lt;em&gt;maybe&lt;/em&gt; those prior advancements might not have been as clearly beneficial to us as we’ve framed them to be. You know, now that we’ve lost the ability and objectivity to imagine a world without them.&lt;/p&gt;
@@ -110,17 +110,17 @@ Every week, we’d learn something new and then work on assignments. You see, co
 &lt;h2 id=&#34;the-opportunity&#34;&gt;The Opportunity&lt;/h2&gt;
 &lt;p&gt;I do believe that what we need, if we’re brave enough to consider it, is &lt;em&gt;less&lt;/em&gt;. No to AI, no to social media, less internet, rare screen time. Instead, more time to get bored, time to get creative, time to wonder what this plant is, when fishing might be good, what our friends could be up to next week.&lt;/p&gt;
 &lt;p&gt;Personally, I would welcome big, if very different, disruptions. I’m not &lt;em&gt;waiting&lt;/em&gt; for them and I know that I don’t have any agency to &lt;em&gt;make&lt;/em&gt; them happen. Nonetheless, I’d be open to natural events leading us to &lt;em&gt;drop&lt;/em&gt; technology and living with less safety and more adventure. Such a life, I think, would have a higher rewarding potential (even for a type 1 diabetic like me dependent on insulin). I’d be excited to reconnect with the essentials and spend hours outside foraging, splitting wood, tracking, fishing and have all the time in the world to live and enjoy all that’s real.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://heyitsalex.net/images/eye-roll.gif&#34; alt=&#34;Eye roll&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/eye-roll.gif&#34; alt=&#34;Eye roll&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Now, stop rolling your eyes at me and go outside without your phone.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>La Pandémie</title>
-      <link>https://heyitsalex.net/la-pandemie/</link>
+      <link>http://localhost:1313/la-pandemie/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/la-pandemie/</guid>
+      <guid>http://localhost:1313/la-pandemie/</guid>
       <description>&lt;p&gt;&lt;em&gt;This post is a little different than usual. First, it&amp;rsquo;s in French. Second, it&amp;rsquo;s a short story based on the French series &lt;a href=&#34;https://en.wikipedia.org/wiki/Le_Petit_Nicolas&#34;&gt;Le Petit Nicolas&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Ren%C3%A9_Goscinny&#34;&gt;René Goscinni&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Jean-Jacques_Semp%C3%A9&#34;&gt;Jean-Jacques Sempé&lt;/a&gt; that I wrote as part of my son&amp;rsquo;s birthday card (he&amp;rsquo;s also a fan). This new story takes the same characters and style of the originals with the intent of honoring the original and much cherished series.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;J’ai déjà eu les oreillons, la rougeole et la varricelle alors quand le directeur est entré dans la classe pour nous annoncer la fermeture de l’école pour une durée indéterminée à cause de la pandémie, je trouvais ça trop chouette.&lt;/p&gt;
 &lt;p&gt;La maitresse nous a dit qu’on allait lui manquer et que nos parents auraient des instructions pour nous aider avec les leçons pour ne pas qu’on prenne trop de retard dans nos études. Ça, c’était moins chouette mais les copains étaient quand même contents parce qu’au moins, on n’aurait pas des zéros et des retenus comme en classe.&lt;/p&gt;
@@ -137,7 +137,7 @@ Every week, we’d learn something new and then work on assignments. You see, co
 
 &lt;figure class=&#34;full&#34;&gt;
     
-        &lt;img src=&#34;https://heyitsalex.net/images/la-pandemie.jpg&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/la-pandemie.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -156,10 +156,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Embracing the Unthinkable</title>
-      <link>https://heyitsalex.net/embracing-the-unthinkable/</link>
+      <link>http://localhost:1313/embracing-the-unthinkable/</link>
       <pubDate>Sat, 26 Jan 2019 10:14:00 -0800</pubDate>
       
-      <guid>https://heyitsalex.net/embracing-the-unthinkable/</guid>
+      <guid>http://localhost:1313/embracing-the-unthinkable/</guid>
       <description>&lt;p&gt;I’ve refered several times to &lt;a href=&#34;https://www.amazon.com/Paradise-Built-Hell-Extraordinary-Communities/dp/0143118072&#34;&gt;A Paradise Built in Hell&lt;/a&gt; with its stories of people coming together and living meaningful and memorable experiences when the &lt;em&gt;established&lt;/em&gt; order is thrown away (temporarily) and a more &lt;em&gt;“natural”&lt;/em&gt; order surfaces.&lt;/p&gt;
 &lt;p&gt;While the stories from &lt;a href=&#34;https://www.amazon.com/Paradise-Built-Hell-Extraordinary-Communities/dp/0143118072&#34;&gt;A Paradise Built in Hell&lt;/a&gt; are inspiring, with it comes an uncomfortable proposition: in order for things to &lt;em&gt;really&lt;/em&gt; get better, we might need more difficult events to push us, to clear the way.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/CB2ZQnDbuqLhS/giphy.gif&#34; alt=&#34;asteroid&#34;&gt;&lt;/p&gt;
@@ -220,10 +220,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>The Power of Believing Other People Believe</title>
-      <link>https://heyitsalex.net/the-power-of-believing-other-people-believe/</link>
+      <link>http://localhost:1313/the-power-of-believing-other-people-believe/</link>
       <pubDate>Tue, 11 Dec 2018 22:07:00 -0700</pubDate>
       
-      <guid>https://heyitsalex.net/the-power-of-believing-other-people-believe/</guid>
+      <guid>http://localhost:1313/the-power-of-believing-other-people-believe/</guid>
       <description>&lt;p&gt;I know that money has no real value. You know money has no real value.&lt;/p&gt;
 &lt;p&gt;And still, I’m using tools and services at this very moment that are paid for using money and tomorrow, I’ll work to get more. And you probably do the same.&lt;/p&gt;
 &lt;p&gt;I remember reading &lt;a href=&#34;https://www.amazon.com/Saved-worrying-about-became-richest/dp/1609614089/ref=sr_1_1?ie=UTF8&amp;amp;qid=1543812125&amp;amp;sr=8-1&amp;amp;keywords=saved+ben+hewitt&#34;&gt;Saved&lt;/a&gt; from &lt;a href=&#34;https://www.benhewitt.net&#34;&gt;Ben Hewitt&lt;/a&gt; and being excited to read so clearly about ideas that were intuitive but that I had never spent time to stop, think and articulate myself. It was the first time I read about the idea that money does not require that people believe in it in order to work. Money has value as long as people believe &lt;em&gt;other&lt;/em&gt; people believe it.&lt;/p&gt;
@@ -261,10 +261,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Throwing Away Some Ideas About Recycling</title>
-      <link>https://heyitsalex.net/throwing-away-some-ideas-about-recycling/</link>
+      <link>http://localhost:1313/throwing-away-some-ideas-about-recycling/</link>
       <pubDate>Mon, 26 Mar 2018 21:00:00 -0700</pubDate>
       
-      <guid>https://heyitsalex.net/throwing-away-some-ideas-about-recycling/</guid>
+      <guid>http://localhost:1313/throwing-away-some-ideas-about-recycling/</guid>
       <description>
 &lt;div class=&#34;interlude&#34;&gt;
     &lt;p&gt;Following the phone’s directions, we hop off the bus at 23rd and look North to find that the road is interrupted. There’s a small but steep hill without sidewalk or road. We proceed with caution and find the road and sidewalk resuming a few hundred feet later. The kids didn’t want to make the trip with me and now they have ammunition to highlight my poor judgement. We walk several more blocks in what is definitely &lt;em&gt;not&lt;/em&gt; a pedestrian friendly street. Some lack a sidewalk, with the space taken up for truck or car parking to commercial storage places.&lt;/p&gt;
@@ -295,10 +295,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>The Beautiful Blur</title>
-      <link>https://heyitsalex.net/the-beautiful-blur/</link>
+      <link>http://localhost:1313/the-beautiful-blur/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/the-beautiful-blur/</guid>
+      <guid>http://localhost:1313/the-beautiful-blur/</guid>
       <description>&lt;p&gt;Recently, I&amp;rsquo;ve had a few people near me talk about the &lt;a href=&#34;https://en.wikipedia.org/wiki/Bates_method&#34;&gt;Bates method&lt;/a&gt; to improve their vision. I remembered trying this when I was younger. At the time, my vision was deteriorating to a point where I couldn&amp;rsquo;t read the board from the back rows in class but I refused to wear glasses. I don&amp;rsquo;t remember how seriously I tried this but I eventually gave up. Back then, I don&amp;rsquo;t think I would have had the behavioral tricks and experience to commit to an experiment and do it seriously.&lt;/p&gt;
 &lt;p&gt;So, triggered by those conversations about vision, I decided to do some more researching into the subject and eventually found out about &lt;a href=&#34;http://endmyopia.org&#34;&gt;endmyopia.org&lt;/a&gt;. The explanation of &lt;a href=&#34;http://endmyopia.org/end-myopia-home/&#34;&gt;how myopia develops&lt;/a&gt; makes a lot of sense and there&amp;rsquo;s a certain rewilding elegance to the process of reverting it: since the eyes adapt to stimulus, reverting is a process of slowly giving them the opposite stimulus to adapt back to a &amp;ldquo;normal&amp;rdquo; state.&lt;/p&gt;
 &lt;p&gt;I can&amp;rsquo;t vouch for the approach yet because I&amp;rsquo;ll be starting on the reduced long distance prescription in a few weeks and that&amp;rsquo;s what will provide that opposite stimulus. Until then, it&amp;rsquo;s just something that sounds promising. Still, the road to get to that reduced long distance prescription is compromised of several interesting habits that I think are worth talking about.&lt;/p&gt;
@@ -362,10 +362,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>The Russian Doll Prisons</title>
-      <link>https://heyitsalex.net/the-russian-doll-prisons/</link>
+      <link>http://localhost:1313/the-russian-doll-prisons/</link>
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/the-russian-doll-prisons/</guid>
+      <guid>http://localhost:1313/the-russian-doll-prisons/</guid>
       <description>&lt;p&gt;The Westfalia has been really useful lately in powering small appliances when we were under peak event power restrictions from Portland General Electric. In the morning, I’ve been putting it in neutral, unlocking the hand brake and pushing it slowly in the driveway to get the Van and its solar panel under the sun. It’s then pretty easy to just plug in the slow cooker or the dehydrator and use some of that “free” energy. Yes, I realize the irony of using all the technology to dehydrate food instead of directly using the sun but I figured that since we have it, it’s an acceptable compromise.&lt;/p&gt;
 
 
@@ -388,10 +388,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>The Normality of Apocalypses</title>
-      <link>https://heyitsalex.net/the-normality-of-apocalypses/</link>
+      <link>http://localhost:1313/the-normality-of-apocalypses/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/the-normality-of-apocalypses/</guid>
+      <guid>http://localhost:1313/the-normality-of-apocalypses/</guid>
       <description>&lt;p&gt;We woke up yesterday morning with my excited son urging us to get outside to see the snow outside. We didn’t exactly jump out of bed since we could feel the temperature and know immediately that this &lt;em&gt;wasn’t snow&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Still, we believed him that something was up and that there was something snow-like outside. Her mother quickly hypothesized that he must have been looking at bone dust from working on a bone blade that I’d have neglected to clean up. I relectantly admitted this was a fair hypothesis since I had in fact neglected to clean up after myself.&lt;/p&gt;
 &lt;p&gt;A few more minutes of talking and slowly accepting it was time to get up, my wife went outside while I checked the news. I immediately saw the pictures of the fire in The Gorge and the news about the smoke and ash coming to Portland.&lt;/p&gt;
@@ -437,10 +437,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>On Coding and Anarchy</title>
-      <link>https://heyitsalex.net/on-coding-and-anarchy/</link>
+      <link>http://localhost:1313/on-coding-and-anarchy/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/on-coding-and-anarchy/</guid>
+      <guid>http://localhost:1313/on-coding-and-anarchy/</guid>
       <description>&lt;p&gt;As I start writing this, I’ve just received an email from corporate HR announcing results of a survey that “clearly indicate” that employees feel like the most important thing to improve is &lt;em&gt;career development&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://media.makeameme.org/created/i-just-threw.jpg&#34; alt=&#34;I just threw up in my mouth a little&#34;&gt;&lt;/p&gt;
 
@@ -494,10 +494,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Beyond Home</title>
-      <link>https://heyitsalex.net/beyond-home/</link>
+      <link>http://localhost:1313/beyond-home/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/beyond-home/</guid>
+      <guid>http://localhost:1313/beyond-home/</guid>
       <description>
 
 
@@ -519,10 +519,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Thoughts on Going Back</title>
-      <link>https://heyitsalex.net/going-back/</link>
+      <link>http://localhost:1313/going-back/</link>
       <pubDate>Thu, 28 Apr 2016 10:00:00 -0800</pubDate>
       
-      <guid>https://heyitsalex.net/going-back/</guid>
+      <guid>http://localhost:1313/going-back/</guid>
       <description>
 
 
@@ -564,10 +564,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Longing for Belonging</title>
-      <link>https://heyitsalex.net/longing-for-belonging/</link>
+      <link>http://localhost:1313/longing-for-belonging/</link>
       <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/longing-for-belonging/</guid>
+      <guid>http://localhost:1313/longing-for-belonging/</guid>
       <description>
 
 
@@ -590,10 +590,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Living in the Moment or Not</title>
-      <link>https://heyitsalex.net/in-the-moment-or-not/</link>
+      <link>http://localhost:1313/in-the-moment-or-not/</link>
       <pubDate>Tue, 15 Dec 2015 10:00:00 -0800</pubDate>
       
-      <guid>https://heyitsalex.net/in-the-moment-or-not/</guid>
+      <guid>http://localhost:1313/in-the-moment-or-not/</guid>
       <description>&lt;p&gt;Living in the moment seems like a very serene way of living. A very buddhist perspective free from the worries of the past and the future. One path to happiness.&lt;/p&gt;
 &lt;p&gt;But I find it incredibly difficult to live in the moment. I guess my reasons are commonplace and typical which makes me a very average being. I find it difficult because I’m worried. It’s hard because I think about the future. It’s impossible because I think of what I should be doing rather than what I &lt;em&gt;am&lt;/em&gt; doing.&lt;/p&gt;
 &lt;p&gt;But I also think there’s more to it. It’s possible that this is just my way of finding an excuse but I think that we might not have the luxury of living in the moment. We&amp;rsquo;re the privileged ones on top of this civilized world with no or very little conscience of the damage we&amp;rsquo;re inflicting on all living things. After having played the role of evil in this story for so long, can we really afford to live this moment? Maybe it would be a good idea &lt;em&gt;eventually&lt;/em&gt; but I think the focus in this time of near collapse would be better served by reading the past and imagining a future of redemption and regeneration. I can&amp;rsquo;t be enjoying myself right now because this life and therefore this moment has been made possible by acts of destruction and disrespect for life. Living that moment would just go in support of this and it&amp;rsquo;s a hard choice to make when you&amp;rsquo;ve reached a certain level recognition for what is.&lt;/p&gt;
@@ -619,10 +619,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>The Barrier of Isolation</title>
-      <link>https://heyitsalex.net/the-barrier-of-isolation/</link>
+      <link>http://localhost:1313/the-barrier-of-isolation/</link>
       <pubDate>Tue, 17 Nov 2015 09:20:00 -0700</pubDate>
       
-      <guid>https://heyitsalex.net/the-barrier-of-isolation/</guid>
+      <guid>http://localhost:1313/the-barrier-of-isolation/</guid>
       <description>&lt;p&gt;&lt;em&gt;There are many barriers to rewilding but I’d like to tackle one today. I realize that my perspective is one of a priviledged white man but I can’t pretend it’s any other way and I just feel the need to share. Thanks for reading.&lt;/em&gt;&lt;/p&gt;
 
 
@@ -645,7 +645,7 @@ Every week, we’d learn something new and then work on assignments. You see, co
 &lt;p&gt;Which brings me to what I really wanted to say: the more we move closer to our uncommon convictions, the more we might feel isolated. In other words, the more we move away from a system that we can’t support anymore, the harder it seems to become to stay connected with people that still fully support it.&lt;/p&gt;
 &lt;p&gt;And that, I think, is one significant barriers to rewilding for some. Or so it appears initially. While it’s easy to continue having casual conversations with colleagues and friends who don’t currently share the same views, it feels like a lie by ommission to avoid talking about rewilding. Because, truthfully, everything can be connected to the desire for civilization to collapse, for our place to be restored in nature, for our regenerative work to begin. But there are some people that would turn off completely if exposed to these ideas prematurely. And skipping on those discussions seems to me like just another form of isolation.&lt;/p&gt;
 &lt;p&gt;But maybe it doesn’t have to be that way. Maybe it’s just a matter of choosing the right words. Most people, deep down, aren’t happy with their life and that opens up a discussion about &lt;em&gt;something&lt;/em&gt; better. For a relative newcomer to the ideas of rewilding like me, it might even be easier to relate to people who are uninitiated rather than the teachers who are so further ahead. It might not be as satisfactory as getting to the core of &lt;em&gt;how&lt;/em&gt; we should tackle everything that needs to be done but it seems like an important part. With the benefit that there’s a potential for reaching out to more people and even strenghtening relationships.&lt;/p&gt;
-&lt;p&gt;All said, I believe the reality might be an unelegant mix. I can’t help but feel the need to break away from this isolation bubble by interacting with like-minded folks. It seems &lt;em&gt;somewhat&lt;/em&gt; realistic that some some form of rewilding discussions can happen with friends who are not currently thinking of rewilding or just not thinking of rewilding in the same terms and definitions. It seems unrealistic that this can be fully satisfactory. I’ve said it before but it seems as relevant today than when I wrote this &lt;a href=&#34;https://heyitsalex.net/new-light-on-that-blue&#34;&gt;long ago&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;All said, I believe the reality might be an unelegant mix. I can’t help but feel the need to break away from this isolation bubble by interacting with like-minded folks. It seems &lt;em&gt;somewhat&lt;/em&gt; realistic that some some form of rewilding discussions can happen with friends who are not currently thinking of rewilding or just not thinking of rewilding in the same terms and definitions. It seems unrealistic that this can be fully satisfactory. I’ve said it before but it seems as relevant today than when I wrote this &lt;a href=&#34;http://localhost:1313/new-light-on-that-blue&#34;&gt;long ago&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;I’m not sure friends are forever but we forever needs friends.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;And, ideally, some of those friends would be passionate rewilders because it’s a topic that we can’t really pause from thinking about for very long.&lt;/p&gt;
 </description>
@@ -653,11 +653,11 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Positive Optimism</title>
-      <link>https://heyitsalex.net/positive-optimism/</link>
+      <link>http://localhost:1313/positive-optimism/</link>
       <pubDate>Sun, 01 Nov 2015 08:00:00 -0800</pubDate>
       
-      <guid>https://heyitsalex.net/positive-optimism/</guid>
-      <description>&lt;p&gt;I felt lost when I wrote my &lt;a href=&#34;https://heyitsalex.net/negative-optimism&#34;&gt;previous post&lt;/a&gt; regarding the &lt;a href=&#34;https://en.wikipedia.org/wiki/Holocene_extinction&#34;&gt;Holocene extinction&lt;/a&gt;. I thought I had just learned that our species had a destructive nature since its inception even &lt;a href=&#34;https://en.wikipedia.org/wiki/Seven_generation_sustainability&#34;&gt;within cultures focusing on sustainability&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/positive-optimism/</guid>
+      <description>&lt;p&gt;I felt lost when I wrote my &lt;a href=&#34;http://localhost:1313/negative-optimism&#34;&gt;previous post&lt;/a&gt; regarding the &lt;a href=&#34;https://en.wikipedia.org/wiki/Holocene_extinction&#34;&gt;Holocene extinction&lt;/a&gt;. I thought I had just learned that our species had a destructive nature since its inception even &lt;a href=&#34;https://en.wikipedia.org/wiki/Seven_generation_sustainability&#34;&gt;within cultures focusing on sustainability&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I now think that I had misinterpreted my readings. Whether intentional or not, &lt;a href=&#34;http://www.amazon.com/Sixth-Extinction-Unnatural-History/dp/1250062187/ref=sr_1_1?ie=UTF8&amp;amp;qid=1446433599&amp;amp;sr=8-1&amp;amp;keywords=The+Sixth+Extinction&#34;&gt;The Sixth Extinction&lt;/a&gt; implied with the retelling of conversations about the history of homo sapiens that destruction had followed the path of our species from our early beginnings. However, after some more researching, it appears that, while there were extinctions before civilization, those were not quite at the same level nor within the same context. I already had some intuition to that effect and I felt relief to find some of that evidence presented in &lt;a href=&#34;https://leanpub.com/rewildandlive&#34;&gt;Rewild 101&lt;/a&gt;. Civilization would have amplified our destructive impact by orders of magnitude. However, I now think that extinctions prior to civilization were closer to events that would occur naturally as part of evolution and cohabitation between other species. We can &lt;em&gt;feel&lt;/em&gt; bad about those but they should reveal themselves as neither good or bad. In contract with current extinctions, those represent something closer to a natural outcome to a particular set of circumstances.&lt;/p&gt;
 &lt;p&gt;While this new perspective doesn’t really change the idea that we should rewild and reconnect with nature, it does offer us an interesting proposition: we could have a positive place amongst other livings. That process might involve a lot of hardships and it won’t happen quickly but the idea that it could brings me joy here and now.&lt;/p&gt;
 </description>
@@ -665,10 +665,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Negative Optimism</title>
-      <link>https://heyitsalex.net/negative-optimism/</link>
+      <link>http://localhost:1313/negative-optimism/</link>
       <pubDate>Tue, 22 Sep 2015 09:00:00 -0700</pubDate>
       
-      <guid>https://heyitsalex.net/negative-optimism/</guid>
+      <guid>http://localhost:1313/negative-optimism/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is a snapshot in a continuous exploration of the meaning of life and our place in nature. All thoughts and ideas expressed here are subject to change at any moment.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Ideas evolve and change. Or, at least, they usually do. When I picked up &lt;a href=&#34;http://www.amazon.com/The-Sixth-Extinction-Unnatural-History/dp/0805092994&#34;&gt;The Sixth Extinction&lt;/a&gt;, I had a sense that I might not get much new to advance my current ideas. I was wrong.&lt;/p&gt;
 &lt;p&gt;My skepticism seem warranted when, reading the introduction, it appeared as if the book was about the telling of a great story first and foremost. But while that might have been the author’s  initial motivation, she made a convincing case that even if she might have been looking for a story, it might just happen to be one that is incredibly captivating because of its importance.&lt;/p&gt;
@@ -682,16 +682,16 @@ Every week, we’d learn something new and then work on assignments. You see, co
 &lt;p&gt;Of course, how this affects how I live now gets a bit more complicated. We all want to live. &lt;em&gt;I&lt;/em&gt; still want to live. I&amp;rsquo;d like to move in the &amp;ldquo;right&amp;rdquo; direction but it becomes very confusing as to what this could be. Another way to look at it would be that as we&amp;rsquo;re going extinct, I should just find a quiet space to reflect in the meantime. A life closer to nature. Try to find solace knowing that when we won&amp;rsquo;t be there, some of this nature and some of this life will actually be able to strive.&lt;/p&gt;
 &lt;p&gt;So maybe that&amp;rsquo;s it. It might be time to come to peace with the resolution that we screwed up. Come to terms with the idea that &lt;em&gt;we&lt;/em&gt; are the problem. Saying our final good byes before we go the way of the dodo. And know, that maybe, probably, there will still be life after us and that life will be smart enough to not try and get too smart to disturb a fragile and beautiful equilibrium.&lt;/p&gt;
 &lt;p&gt;But, of course, this might also be a bump in the road to a brighter, continuously evolving set of thoughts and ideas where we’d be a force for good.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Update: Back to &lt;a href=&#34;https://heyitsalex.net/positive-optimism&#34;&gt;positive optimism&lt;/a&gt; with new information after digging into pre-history. Read the &lt;a href=&#34;https://heyitsalex.net/positive-optimism&#34;&gt;next post&lt;/a&gt; for my current thoughts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update: Back to &lt;a href=&#34;http://localhost:1313/positive-optimism&#34;&gt;positive optimism&lt;/a&gt; with new information after digging into pre-history. Read the &lt;a href=&#34;http://localhost:1313/positive-optimism&#34;&gt;next post&lt;/a&gt; for my current thoughts.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Big Illusions</title>
-      <link>https://heyitsalex.net/the-big-illusions/</link>
+      <link>http://localhost:1313/the-big-illusions/</link>
       <pubDate>Fri, 02 Jan 2015 10:00:00 -0700</pubDate>
       
-      <guid>https://heyitsalex.net/the-big-illusions/</guid>
+      <guid>http://localhost:1313/the-big-illusions/</guid>
       <description>&lt;p&gt;I closed &lt;a href=&#34;http://www.amazon.com/The-Big-Ratchet-Humanity-Thrives/dp/0465044972&#34;&gt;The Big Ratchet&lt;/a&gt; mad with rage. I wasn’t surprised to find myself in disagreement with the author but I did find myself unable to contain my emotions.&lt;/p&gt;
 &lt;p&gt;While venting, I realized what frustrated me. The author goes into the history of humanity and its “ingenuity”. She goes on to tell the story of “pivots” in history. Along the way, tragedies happen (indigenous people are exterminated, species disappear and sustainable ways of life are destroyed) but they’re always brushed off very quickly as minor downsides of something that brought a net positive. Each time, she tells us that out of the problems that we introduced, we found solutions that made us better than when we started. And, in every case, I found myself offended that she would say that. In every case, I was thinking to myself that we had just taken a wrong turn that should have prompted us to turn back. Instead, we celebrated an illusion of progress that was bringing us deeper into a path of destruction.&lt;/p&gt;
 &lt;p&gt;Multiple times, she goes on to say that we were better because more people had food, we could expand and considering going back would be impossible because of all the life that needed to be sustained.&lt;/p&gt;
@@ -717,10 +717,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Uncertainties</title>
-      <link>https://heyitsalex.net/uncertainties/</link>
+      <link>http://localhost:1313/uncertainties/</link>
       <pubDate>Sun, 02 Nov 2014 09:14:00 -0700</pubDate>
       
-      <guid>https://heyitsalex.net/uncertainties/</guid>
+      <guid>http://localhost:1313/uncertainties/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“I know that I know nothing.”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -748,10 +748,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Doing Beats Talking, Most of the Time</title>
-      <link>https://heyitsalex.net/doing-beats-talking-most-of-the-time/</link>
+      <link>http://localhost:1313/doing-beats-talking-most-of-the-time/</link>
       <pubDate>Sat, 27 Jul 2013 10:53:03 -0700</pubDate>
       
-      <guid>https://heyitsalex.net/doing-beats-talking-most-of-the-time/</guid>
+      <guid>http://localhost:1313/doing-beats-talking-most-of-the-time/</guid>
       <description>&lt;p&gt;It has been a while since I last posted. I have no excuses; I simply have a good reason.&lt;/p&gt;
 &lt;p&gt;I was &lt;em&gt;too busy&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been working on very exciting projects so that work consumed my time and energy enough that I didn&amp;rsquo;t have time to &lt;em&gt;talk&lt;/em&gt; about all what I was doing.&lt;/p&gt;
@@ -790,10 +790,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Juxtapose</title>
-      <link>https://heyitsalex.net/juxtapose/</link>
+      <link>http://localhost:1313/juxtapose/</link>
       <pubDate>Thu, 28 Feb 2013 05:58:53 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/juxtapose/</guid>
+      <guid>http://localhost:1313/juxtapose/</guid>
       <description>&lt;p&gt;A few weeks ago, I came across some stunning &lt;a href=&#34;http://imgur.com/a/wxBBm#0&#34;&gt;compositing work&lt;/a&gt; from &lt;a href=&#34;http://realcalvinandhobbes.tumblr.com/&#34;&gt;Michael Den Beste&lt;/a&gt;. The project juxtaposes drawings of &lt;a href=&#34;http://en.wikipedia.org/wiki/Calvin_and_Hobbes&#34;&gt;Calvin and Hobbes&lt;/a&gt; with fitting nature photographs.&lt;/p&gt;
 &lt;p&gt;By themselves, the photos would be pretty good albeit lacking a distinguishing element. With Calvin and Hobbes, the scene comes alive. The drawings bring a touch of imagination in an otherwise very real scene. I felt as if the world was being filled with mystical creatures from storybooks. It&amp;rsquo;s breaking the monotony of a thousand pretty pictures while celebrating of the beauty of nature.&lt;/p&gt;
 &lt;p&gt;You can tell I felt inspired by that work. I also happen to take random unpublished pictures suited for such compositing work: &lt;em&gt;wallpaper-nice&lt;/em&gt; caliber but nothing crazy unique. I also happen to draw things. Or, I try to. Here is my first attempt at this type of composite art. It&amp;rsquo;s an old pouring rain picture that I augmented with my drawing of a snail. I have much better photos in reserve for this type of work but this one seemed to be fitting with my character so I&amp;rsquo;m going with that. Uncharacteristically for me, this won&amp;rsquo;t be a scheduled project. But, I&amp;rsquo;ll make more.&lt;/p&gt;
@@ -819,10 +819,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>Love Letter to Github</title>
-      <link>https://heyitsalex.net/love-letter-to-github/</link>
+      <link>http://localhost:1313/love-letter-to-github/</link>
       <pubDate>Mon, 17 Dec 2012 06:07:09 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/love-letter-to-github/</guid>
+      <guid>http://localhost:1313/love-letter-to-github/</guid>
       <description>
 
 
@@ -888,10 +888,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>How Rdio Stole all the Music and Gave it to All of Us </title>
-      <link>https://heyitsalex.net/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</link>
+      <link>http://localhost:1313/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</link>
       <pubDate>Mon, 05 Nov 2012 05:04:52 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</guid>
+      <guid>http://localhost:1313/how-rdio-stole-all-the-music-and-gave-it-to-all-of-us/</guid>
       <description>
 
 
@@ -928,10 +928,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>I Still Remember, Even After 6 Months</title>
-      <link>https://heyitsalex.net/i-still-remember-even-after-6-months/</link>
+      <link>http://localhost:1313/i-still-remember-even-after-6-months/</link>
       <pubDate>Thu, 25 Oct 2012 05:45:32 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/i-still-remember-even-after-6-months/</guid>
+      <guid>http://localhost:1313/i-still-remember-even-after-6-months/</guid>
       <description>
 
 
@@ -980,10 +980,10 @@ Every week, we’d learn something new and then work on assignments. You see, co
     
     <item>
       <title>New Light on that Blue</title>
-      <link>https://heyitsalex.net/new-light-on-that-blue/</link>
+      <link>http://localhost:1313/new-light-on-that-blue/</link>
       <pubDate>Thu, 30 Aug 2012 10:00:21 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/new-light-on-that-blue/</guid>
+      <guid>http://localhost:1313/new-light-on-that-blue/</guid>
       <description>&lt;p&gt;&lt;em&gt;What follows is my take on &lt;a href=&#34;http://heyitsalex.net/what-can-happen-in-a-second/&#34;&gt;another&lt;/a&gt; prompt from &lt;a href=&#34;http://www.amazon.com/Things-Journal-Francisco-Writers-Grotto/dp/1452105448&#34;&gt;642 Things to Write About&lt;/a&gt;. It&amp;rsquo;s pretty personal, borderline personal diary. Yeah.
 Since this blog is my miscellaneous bucket and I&amp;rsquo;m the editor, I say it&amp;rsquo;s &lt;strong&gt;in&lt;/strong&gt;. Let&amp;rsquo;s ship it. Then, see how it feels.
 Do not worry, I&amp;rsquo;m not planning on making regular posts about my feelings, probably.&lt;/em&gt;&lt;/p&gt;
@@ -1030,10 +1030,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>What Can Happen in a Second?</title>
-      <link>https://heyitsalex.net/what-can-happen-in-a-second/</link>
+      <link>http://localhost:1313/what-can-happen-in-a-second/</link>
       <pubDate>Thu, 09 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/what-can-happen-in-a-second/</guid>
+      <guid>http://localhost:1313/what-can-happen-in-a-second/</guid>
       <description>&lt;p&gt;&lt;em&gt;I stumbled upon a book last weekend that caught my attention. It&amp;rsquo;s called &lt;a href=&#34;http://www.amazon.com/Things-Journal-Francisco-Writers-Grotto/dp/1452105448&#34;&gt;642 Things to Write About&lt;/a&gt;. It contains 642 prompts for things to write about. Simple. With a clearly defined scope, creativity flourishes. If you know me, you know how I like this sort of thing.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This post is my take on the first prompt of the book: What Can Happen in a Second? I just wrote without thinking too much about it.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Others might follow. Or not. I haven&amp;rsquo;t read the second prompt yet. I will. But I&amp;rsquo;m shipping this one first.&lt;/em&gt;&lt;/p&gt;
@@ -1075,10 +1075,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>The Tourist Photographer&#39;s Dilemma</title>
-      <link>https://heyitsalex.net/the-tourist-photographers-dilemma/</link>
+      <link>http://localhost:1313/the-tourist-photographers-dilemma/</link>
       <pubDate>Fri, 27 Jul 2012 04:30:35 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/the-tourist-photographers-dilemma/</guid>
+      <guid>http://localhost:1313/the-tourist-photographers-dilemma/</guid>
       <description>&lt;p&gt;I wholeheartedly loathe tourist photos. I really do. I get angry just thinking about it. I really really hate this. Let me go outside and throw some rocks on a concrete wall.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -1139,10 +1139,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>The Ultimate Guide to Almost Everything [or Nothing]</title>
-      <link>https://heyitsalex.net/the-ultimate-guide-to-almost-everything-or-nothing/</link>
+      <link>http://localhost:1313/the-ultimate-guide-to-almost-everything-or-nothing/</link>
       <pubDate>Wed, 27 Jun 2012 05:05:49 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/the-ultimate-guide-to-almost-everything-or-nothing/</guid>
+      <guid>http://localhost:1313/the-ultimate-guide-to-almost-everything-or-nothing/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Update: After finishing and reading this post (ok, I &lt;em&gt;skimmed&lt;/em&gt; through it), I updated the title to better reflect its content.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;So this is going to be one of those serious posts where I tell know how to live your life to &amp;ldquo;enlarge&amp;rdquo; your happiness. This is all going to be bulletproof advice that I may or may not follow myself (but really, &lt;em&gt;trust&lt;/em&gt; me, I&amp;rsquo;m just putting that disclaimer there to please lawyers).&lt;/p&gt;
 &lt;p&gt;On second thought (ok, on &lt;em&gt;initial&lt;/em&gt; thought, I hadn&amp;rsquo;t really did any thinking before writing this out), scratch that, I&amp;rsquo;m not going to tell you how to live your life.&lt;/p&gt;
@@ -1180,10 +1180,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>The San Francisco Guide for Montréalers</title>
-      <link>https://heyitsalex.net/the-san-francisco-guide-for-montrealers/</link>
+      <link>http://localhost:1313/the-san-francisco-guide-for-montrealers/</link>
       <pubDate>Thu, 14 Jun 2012 05:00:55 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/the-san-francisco-guide-for-montrealers/</guid>
+      <guid>http://localhost:1313/the-san-francisco-guide-for-montrealers/</guid>
       <description>&lt;p&gt;You dear reader should already know that I&amp;rsquo;m a new San Franciscan and ex-Montréaler. As such, I present you with great authority the definite guide to San Francisco for Montréalers. It&amp;rsquo;s really more of a collection of fairly obvious differences between Montréal and San Francisco. I really rely on my blog getting zero readership to shield me from real potential of offending residents of both cities. It may have been better titled as &amp;ldquo;10 differences between Montréal and San Francisco&amp;rdquo; but I hate those. They most often come in round numbers which I find suspicious. How convenient would it be if there were really 10 differences between the two cities?&lt;/p&gt;
 &lt;p&gt;Considering this, I&amp;rsquo;m not even counting how many I&amp;rsquo;m listing here. I&amp;rsquo;ll leave that to you and I might just trick you and update this list (hey, this could be a living document). The following represent my opinions but I believe it&amp;rsquo;s fair to say most with the same background as me would agree.&lt;/p&gt;
 &lt;h2 id=&#34;stm-kicks-ass-and-muni-not-so-much&#34;&gt;STM Kicks Ass and Muni not so Much&lt;/h2&gt;
@@ -1276,10 +1276,10 @@ I am however having a real hard time not having friends.&lt;/p&gt;
     
     <item>
       <title>Hey, it&#39;s a Start</title>
-      <link>https://heyitsalex.net/hey-its-a-start/</link>
+      <link>http://localhost:1313/hey-its-a-start/</link>
       <pubDate>Tue, 12 Jun 2012 05:20:03 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/hey-its-a-start/</guid>
+      <guid>http://localhost:1313/hey-its-a-start/</guid>
       <description>&lt;p&gt;I may suffer from some condition. Ok well, that&amp;rsquo;s an embarrassing way to start because I really do have a condition as I have type 1 diabetes. But I&amp;rsquo;ve had that since I was a teenager so it&amp;rsquo;s &lt;em&gt;not&lt;/em&gt; was I&amp;rsquo;m referring to here. I was actually thinking of this habit of mine of always having some personal project &lt;a href=&#34;http://dawnofbubbles.com/post/6923528541/creation-as-a-fulltime-dad&#34;&gt;on a schedule&lt;/a&gt; and never letting that go. To the point where I get mad for being so near my self-imposed deadline and being stressed out about not being able to deliver. So much so that it seems like all potential of fun is gone, all fun is sucked out of it and it really is making life a misery for me and all people around me.&lt;/p&gt;
 &lt;p&gt;But that happens only once in a while so it&amp;rsquo;s all good. No problem here.&lt;/p&gt;
 

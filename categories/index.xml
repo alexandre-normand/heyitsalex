@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hey, it&#39;s Alex!</title>
-    <link>https://heyitsalex.net/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Hey, it&#39;s Alex!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,37 +11,37 @@
     
     <item>
       <title>Calvinball Project</title>
-      <link>https://heyitsalex.net/categories/calvinball-project/</link>
+      <link>http://localhost:1313/categories/calvinball-project/</link>
       <pubDate>Thu, 28 Feb 2013 05:58:53 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/categories/calvinball-project/</guid>
+      <guid>http://localhost:1313/categories/calvinball-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nothing</title>
-      <link>https://heyitsalex.net/categories/nothing/</link>
+      <link>http://localhost:1313/categories/nothing/</link>
       <pubDate>Mon, 17 Dec 2012 06:07:09 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/categories/nothing/</guid>
+      <guid>http://localhost:1313/categories/nothing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One More Thing to Write About</title>
-      <link>https://heyitsalex.net/categories/one-more-thing-to-write-about/</link>
+      <link>http://localhost:1313/categories/one-more-thing-to-write-about/</link>
       <pubDate>Thu, 30 Aug 2012 10:00:21 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/categories/one-more-thing-to-write-about/</guid>
+      <guid>http://localhost:1313/categories/one-more-thing-to-write-about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>https://heyitsalex.net/categories/photography/</link>
+      <link>http://localhost:1313/categories/photography/</link>
       <pubDate>Fri, 27 Jul 2012 04:30:35 +0000</pubDate>
       
-      <guid>https://heyitsalex.net/categories/photography/</guid>
+      <guid>http://localhost:1313/categories/photography/</guid>
       <description></description>
     </item>
     
